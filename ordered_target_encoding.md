@@ -196,7 +196,7 @@ In Tree 1, it got encoded as 1.44 (the prior, because it was the first C). The t
 
 In Tree 2, the same row 4 got encoded as 1.87 because by then we had already seen row 7 (also a C, with a high win price). Now the tree has a much more informative number to work with.
 
-![Same row, different histories under different permutations](.claude/skills/figures/diagram1_permutations.svg)
+![Same row, different histories under different permutations](figures/diagram1_permutations.svg)
 
 The encoded values for the same row are **different across trees**. That is intentional. With one tree, the variance is high and you might get unlucky. With 100 trees using 100 different permutations, every row gets seen many times under different histories, and the noise cancels out while the actual category-target signal compounds.
 
@@ -204,7 +204,7 @@ This is also why CatBoost generally needs more trees to fully shine. Fifty trees
 
 To make the variance-averaging concrete, here is what happens to row 4's encoding across 50 simulated trees with 50 different random permutations:
 
-![Per-tree encoding noise washes out across many trees](.claude/skills/figures/diagram2_convergence.svg)
+![Per-tree encoding noise washes out across many trees](figures/diagram2_convergence.svg)
 
 Each gray dot is row 4's encoding under one specific tree. Notice how the dots cluster at exactly two values: **1.44** (when row 7 happened to come after row 4 in that tree's permutation, so row 4 saw no prior C) and **1.87** (when row 7 happened to come before, so row 4 had one prior C to learn from). Each individual tree gives you a coin-flip outcome.
 
