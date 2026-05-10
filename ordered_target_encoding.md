@@ -10,7 +10,7 @@ The math is simple. The intuition is the part that takes a moment to click. We w
 
 ## A quick tour of categorical encoding
 
-Before we get to the CatBoost-specific part, let us make sure we are on the same page about what encoding even means. A tree-based model needs numbers. Categorical features ("site_id = bigrecipe.com", "device = mobile") are not numbers. We need a way to turn them into numbers without throwing away the signal they carry.
+Before we get to the CatBoost-specific part, let us make sure we are on the same page about what encoding even means. A tree-based model needs numbers. Categorical features ("site_id = crazy-yapper.com", "device = mobile") are not numbers. We need a way to turn them into numbers without throwing away the signal they carry.
 
 There are four common approaches.
 
