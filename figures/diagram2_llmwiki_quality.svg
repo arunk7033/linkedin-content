@@ -1,0 +1,127 @@
+<svg viewBox="0 0 900 540" xmlns="http://www.w3.org/2000/svg"
+     font-family="-apple-system, 'Helvetica Neue', Arial, sans-serif">
+
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="115%" height="125%">
+      <feDropShadow dx="0" dy="2" stdDeviation="3" flood-color="#00000018"/>
+    </filter>
+    <filter id="shadowStrong" x="-5%" y="-5%" width="118%" height="130%">
+      <feDropShadow dx="0" dy="3" stdDeviation="5" flood-color="#00000025"/>
+    </filter>
+    <marker id="ab" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#2563EB"/>
+    </marker>
+    <marker id="ag" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto">
+      <polygon points="0 0, 8 3, 0 6" fill="#9CA3AF"/>
+    </marker>
+  </defs>
+
+  <!-- Background -->
+  <rect width="900" height="540" fill="#F8FAFC"/>
+
+  <!-- ══════════════════════════════════════════════════════
+       QUERY BANNER (top)
+       ══════════════════════════════════════════════════════ -->
+  <rect x="0" y="0" width="900" height="72" fill="#0F172A"/>
+  <text x="450" y="24" text-anchor="middle" font-size="11" font-weight="600" fill="#64748B" letter-spacing="1.5">QUERY</text>
+  <text x="450" y="52" text-anchor="middle" font-size="17" font-weight="700" fill="white">"Is there any data leakage in our feature pipeline?"</text>
+
+  <!-- ══════════════════════════════════════════════════════
+       COLUMN HEADERS
+       ══════════════════════════════════════════════════════ -->
+  <!-- Vertical divider -->
+  <line x1="450" y1="72" x2="450" y2="470" stroke="#E2E8F0" stroke-width="1.5"/>
+
+  <!-- Left header: RAG -->
+  <rect x="0" y="72" width="450" height="44" fill="#F1F5F9"/>
+  <text x="225" y="98" text-anchor="middle" font-size="15" font-weight="700" fill="#475569">RAG</text>
+  <text x="225" y="113" text-anchor="middle" font-size="0" fill="none"/>
+
+  <!-- Right header: LLM Wiki -->
+  <rect x="450" y="72" width="450" height="44" fill="#EFF6FF"/>
+  <text x="675" y="98" text-anchor="middle" font-size="15" font-weight="700" fill="#1D4ED8">LLM Wiki</text>
+
+  <!-- ══════════════════════════════════════════════════════
+       LEFT COLUMN — RAG system
+       ══════════════════════════════════════════════════════ -->
+
+  <!-- Step label -->
+  <text x="24" y="140" font-size="10" font-weight="700" fill="#9CA3AF" letter-spacing="1">RETRIEVAL — semantic search over codebase</text>
+
+  <!-- Fragment 1: model.py snippet (gray, code-style) -->
+  <rect x="20" y="148" width="406" height="52" rx="7" fill="white" stroke="#CBD5E1" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="20" y="148" width="7" height="52" rx="3" fill="#94A3B8"/>
+  <text x="37" y="163" font-size="9" font-weight="700" fill="#94A3B8" letter-spacing="0.8">CHUNK 1 — model.py (similarity: 0.71)</text>
+  <text x="37" y="179" font-size="11" fill="#64748B" font-family="'Courier New', monospace">X_train, X_test, y_train, y_test =</text>
+  <text x="37" y="193" font-size="11" fill="#64748B" font-family="'Courier New', monospace">  train_test_split(X, y, test_size=0.2)</text>
+
+  <!-- Fragment 2: data_pipeline.py snippet -->
+  <rect x="20" y="208" width="406" height="52" rx="7" fill="white" stroke="#CBD5E1" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="20" y="208" width="7" height="52" rx="3" fill="#94A3B8"/>
+  <text x="37" y="223" font-size="9" font-weight="700" fill="#94A3B8" letter-spacing="0.8">CHUNK 2 — data_pipeline.py (similarity: 0.68)</text>
+  <text x="37" y="239" font-size="11" fill="#64748B" font-family="'Courier New', monospace">df = pd.read_sql(LOAN_QUERY, engine)</text>
+  <text x="37" y="253" font-size="11" fill="#64748B" font-family="'Courier New', monospace">df['dti_ratio'] = df['dti'].clip(upper=5.0)</text>
+
+  <!-- Fragment 3: smote snippet -->
+  <rect x="20" y="268" width="406" height="52" rx="7" fill="white" stroke="#CBD5E1" stroke-width="1.5" filter="url(#shadow)"/>
+  <rect x="20" y="268" width="7" height="52" rx="3" fill="#94A3B8"/>
+  <text x="37" y="283" font-size="9" font-weight="700" fill="#94A3B8" letter-spacing="0.8">CHUNK 3 — feature_engineering.py (similarity: 0.65)</text>
+  <text x="37" y="299" font-size="11" fill="#64748B" font-family="'Courier New', monospace">sm = SMOTE(sampling_strategy=0.3)</text>
+  <text x="37" y="313" font-size="11" fill="#64748B" font-family="'Courier New', monospace">X_res, y_res = sm.fit_resample(X, y)</text>
+
+  <!-- "none of these show the bug" annotation -->
+  <text x="226" y="336" text-anchor="middle" font-size="10" fill="#94A3B8" font-style="italic">↑ topically related, but none show the leakage</text>
+
+  <!-- RAG Answer box (amber, uncertain) -->
+  <rect x="20" y="350" width="406" height="66" rx="10" fill="#FFFBEB" stroke="#D97706" stroke-width="2" filter="url(#shadow)"/>
+  <text x="38" y="373" font-size="11" font-weight="700" fill="#92400E">ANSWER (after LLM synthesizes 3 chunks):</text>
+  <text x="226" y="394" text-anchor="middle" font-size="13" font-weight="600" fill="#B45309">"No obvious leakage found.</text>
+  <text x="226" y="410" text-anchor="middle" font-size="13" font-weight="600" fill="#B45309">Stratified split looks correct."</text>
+
+  <!-- ══════════════════════════════════════════════════════
+       RIGHT COLUMN — LLM Wiki
+       ══════════════════════════════════════════════════════ -->
+
+  <!-- Step label -->
+  <text x="466" y="140" font-size="10" font-weight="700" fill="#3B82F6" letter-spacing="1">LOOKUP — reads index.md, follows one link</text>
+
+  <!-- Step 1: reads index.md -->
+  <rect x="460" y="148" width="200" height="44" rx="7" fill="white" stroke="#BFDBFE" stroke-width="1.5" filter="url(#shadow)"/>
+  <text x="560" y="166" text-anchor="middle" font-size="12" font-weight="600" fill="#1E40AF">reads index.md</text>
+  <text x="560" y="182" text-anchor="middle" font-size="11" fill="#64748B">finds pointer to known-issues</text>
+
+  <!-- Arrow: index → known-issues -->
+  <path d="M 560,192 L 560,222" fill="none" stroke="#2563EB" stroke-width="2" marker-end="url(#ab)"/>
+  <text x="570" y="210" font-size="10" fill="#2563EB" font-weight="600">1 hop</text>
+
+  <!-- Step 2: known-issues.md entry (amber card, prominent) -->
+  <rect x="460" y="222" width="416" height="108" rx="10" fill="#FEF3C7" stroke="#D97706" stroke-width="2" filter="url(#shadowStrong)"/>
+  <!-- amber header bar -->
+  <rect x="460" y="222" width="416" height="34" rx="10" fill="#D97706"/>
+  <rect x="460" y="240" width="416" height="16" fill="#D97706"/>
+  <circle cx="482" cy="239" r="10" fill="white" opacity="0.2"/>
+  <text x="482" y="243" text-anchor="middle" font-size="13" font-weight="900" fill="white">!</text>
+  <text x="668" y="243" text-anchor="middle" font-size="12" font-weight="700" fill="white">known-issues.md · filed during Ingest 2</text>
+  <text x="668" y="276" text-anchor="middle" font-size="13" font-weight="700" fill="#78350F">DATA LEAKAGE: payment_history_12m</text>
+  <text x="668" y="295" text-anchor="middle" font-size="12" fill="#92400E">12-month rolling mean computed on full dataset</text>
+  <text x="668" y="311" text-anchor="middle" font-size="12" fill="#92400E">before train/test split in data_pipeline.py</text>
+  <text x="668" y="327" text-anchor="middle" font-size="11" fill="#B45309">→ see modules/feature_engineering.md · metrics.md</text>
+
+  <!-- Wiki Answer box (green, confident) -->
+  <rect x="460" y="350" width="416" height="66" rx="10" fill="#ECFDF5" stroke="#10B981" stroke-width="2" filter="url(#shadow)"/>
+  <text x="480" y="373" font-size="11" font-weight="700" fill="#065F46">ANSWER (direct from pre-filed entry):</text>
+  <text x="668" y="394" text-anchor="middle" font-size="13" font-weight="600" fill="#047857">"Yes — payment_history_12m computed</text>
+  <text x="668" y="410" text-anchor="middle" font-size="13" font-weight="600" fill="#047857">before split. AUC may be inflated 4-7pts."</text>
+
+  <!-- ══════════════════════════════════════════════════════
+       FOOTER
+       ══════════════════════════════════════════════════════ -->
+  <rect x="0" y="470" width="900" height="70" fill="#0F172A"/>
+  <text x="450" y="497" text-anchor="middle" font-size="13" font-weight="700" fill="white">
+    RAG retrieved plausible chunks. None contained the answer. The wiki pre-wrote it at ingest time.
+  </text>
+  <text x="450" y="520" text-anchor="middle" font-size="12" fill="#64748B">
+    The leakage bug lived in the interaction between two files — invisible to embedding similarity, visible to a wiki that tracks cross-file context.
+  </text>
+
+</svg>
