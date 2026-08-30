@@ -282,4 +282,4 @@ Overall approval rate: **61.3%**
 
 ---
 
-**Notebook:** `notebooks/chi_square_feature_selection_loan_applications.ipynb` has full code, plots, and step-by-step output.
+**Notebook:** `chi_square_feature_selection_loan_applications.ipynb` has full code, plots, and step-by-step output.
