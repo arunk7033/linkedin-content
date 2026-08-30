@@ -1,0 +1,1201 @@
+age,income,loan_amount,employment,education,property_area,loan_status
+43,51538.78,10009.65,Employed,Graduate,Semiurban,1
+37,41284.31,14338.86,Employed,Graduate,Urban,1
+44,51478.47,10735.68,Employed,Graduate,Rural,0
+53,60920.15,11984.12,Self-Employed,Not Graduate,Rural,0
+36,49988.29,26091.92,Employed,Graduate,Urban,1
+36,49823.23,22838.08,Self-Employed,Not Graduate,Rural,0
+54,37019.62,7943.96,Employed,Graduate,Urban,0
+46,37603.02,18618.16,Self-Employed,Not Graduate,Rural,0
+33,27971.96,18482.11,Self-Employed,Graduate,Rural,0
+43,98699.06,8439.64,Employed,Graduate,Rural,1
+33,29805.69,18536.76,Employed,Graduate,Semiurban,1
+33,37154.42,24715.18,Employed,Graduate,Semiurban,0
+40,36777.34,8526.91,Unemployed,Not Graduate,Semiurban,0
+21,70120.45,9255.74,Employed,Graduate,Urban,1
+21,43565.47,20071.67,Unemployed,Not Graduate,Urban,0
+32,80748.67,14892.28,Employed,Graduate,Rural,1
+28,37444.07,16657.08,Self-Employed,Graduate,Semiurban,1
+41,54808.34,15309.6,Self-Employed,Graduate,Semiurban,1
+29,35096.66,15619.55,Self-Employed,Graduate,Semiurban,0
+24,115619.47,7858.97,Unemployed,Not Graduate,Urban,0
+53,30484.1,20311.19,Employed,Graduate,Rural,0
+36,55488.35,21329.28,Employed,Not Graduate,Rural,0
+39,63165.32,12188.45,Self-Employed,Not Graduate,Urban,0
+24,57844.85,13129.4,Self-Employed,Graduate,Urban,1
+33,45518.99,7241.31,Employed,Graduate,Semiurban,1
+39,46540.2,16410.91,Employed,Not Graduate,Urban,1
+26,49887.44,16794.77,Employed,Not Graduate,Urban,0
+42,46221.45,13031.48,Employed,Not Graduate,Urban,0
+32,72081.42,20946.8,Employed,Graduate,Semiurban,1
+35,118682.74,11688.6,Employed,Not Graduate,Rural,1
+32,39222.4,16744.79,Self-Employed,Graduate,Rural,0
+57,28341.4,8885.13,Employed,Not Graduate,Semiurban,0
+38,47319.95,13234.46,Employed,Not Graduate,Urban,0
+27,137569.39,12459.74,Employed,Graduate,Rural,1
+46,35544.13,14619.67,Employed,Graduate,Urban,1
+26,94433.08,11524.02,Self-Employed,Graduate,Urban,1
+40,95901.83,12675.31,Unemployed,Graduate,Semiurban,1
+21,39283.69,18590.74,Employed,Not Graduate,Semiurban,0
+25,61549.27,11218.22,Self-Employed,Graduate,Urban,1
+40,94029.01,7025.97,Self-Employed,Graduate,Rural,0
+45,42122.99,26898.71,Self-Employed,Graduate,Rural,0
+40,45187.14,23215.64,Employed,Not Graduate,Urban,1
+37,38844.73,7967.25,Unemployed,Graduate,Urban,1
+35,32666.24,17604.03,Employed,Graduate,Urban,1
+23,37808.49,10925.01,Employed,Graduate,Urban,1
+31,30044.17,14844.65,Employed,Not Graduate,Semiurban,0
+33,49693.7,15028.29,Employed,Not Graduate,Urban,1
+49,36026.52,12164.01,Employed,Graduate,Urban,0
+41,53826.13,9764.35,Employed,Graduate,Rural,1
+21,26308.35,10135.34,Employed,Graduate,Semiurban,0
+41,55957.74,9260.59,Self-Employed,Graduate,Urban,1
+34,68419.39,9578.45,Self-Employed,Graduate,Urban,1
+31,22081.73,13005.51,Employed,Not Graduate,Urban,0
+44,56932.56,10033.61,Self-Employed,Graduate,Semiurban,0
+48,80102.92,17550.2,Self-Employed,Not Graduate,Rural,1
+47,30216.51,24219.14,Self-Employed,Graduate,Semiurban,1
+30,95705.3,10593.32,Employed,Not Graduate,Semiurban,1
+35,57965.75,14702.34,Self-Employed,Not Graduate,Semiurban,0
+41,36974.92,16315.55,Unemployed,Graduate,Rural,0
+48,47939.37,16135.88,Self-Employed,Graduate,Rural,1
+33,61287.47,13771.85,Employed,Graduate,Urban,1
+36,50534.03,17981.04,Employed,Graduate,Semiurban,1
+27,60809.57,16202.16,Employed,Graduate,Rural,1
+26,33919.0,8143.17,Employed,Graduate,Urban,1
+46,52456.75,18914.09,Employed,Not Graduate,Rural,0
+52,27847.94,19051.79,Employed,Graduate,Urban,1
+37,46887.65,9844.67,Self-Employed,Not Graduate,Rural,1
+48,34147.24,13564.01,Self-Employed,Graduate,Rural,0
+42,36526.31,17559.17,Employed,Not Graduate,Rural,0
+32,80373.3,12286.72,Unemployed,Graduate,Semiurban,0
+42,75850.84,20520.74,Employed,Not Graduate,Urban,1
+53,62545.86,34390.96,Self-Employed,Graduate,Rural,1
+38,31668.41,9755.69,Self-Employed,Graduate,Rural,1
+54,43193.13,7689.28,Self-Employed,Graduate,Rural,1
+21,79637.4,15086.08,Unemployed,Graduate,Semiurban,0
+46,51879.9,17829.77,Employed,Graduate,Rural,1
+39,123962.18,12181.25,Self-Employed,Graduate,Rural,1
+35,57372.89,23892.13,Employed,Graduate,Urban,1
+39,52934.98,7820.92,Self-Employed,Not Graduate,Semiurban,0
+21,43319.29,17626.65,Self-Employed,Graduate,Rural,1
+36,51710.51,10484.53,Self-Employed,Graduate,Semiurban,1
+42,46120.47,26575.66,Employed,Not Graduate,Urban,0
+53,65071.6,29643.74,Self-Employed,Graduate,Urban,1
+33,71874.8,9831.41,Employed,Graduate,Rural,1
+30,35796.46,10723.33,Employed,Graduate,Semiurban,0
+33,28782.04,18841.84,Self-Employed,Not Graduate,Rural,0
+47,23517.92,11443.16,Employed,Not Graduate,Semiurban,0
+41,60065.84,13119.24,Self-Employed,Not Graduate,Rural,0
+33,31528.69,13496.09,Employed,Graduate,Rural,0
+43,20719.77,6198.92,Employed,Not Graduate,Urban,1
+39,57264.23,13285.98,Self-Employed,Graduate,Semiurban,1
+48,132879.74,10138.64,Employed,Graduate,Urban,1
+31,48901.91,10968.15,Employed,Graduate,Semiurban,1
+35,68555.32,23800.28,Self-Employed,Graduate,Semiurban,1
+34,50651.89,8082.02,Employed,Graduate,Semiurban,1
+23,47119.59,18495.49,Employed,Graduate,Rural,0
+41,70801.16,11949.14,Employed,Graduate,Rural,1
+41,43647.02,11945.33,Self-Employed,Graduate,Semiurban,1
+38,54554.58,18327.33,Self-Employed,Not Graduate,Urban,1
+36,55752.59,15306.31,Self-Employed,Graduate,Rural,1
+24,37525.04,16785.07,Employed,Not Graduate,Urban,0
+34,72898.03,19678.34,Self-Employed,Graduate,Rural,1
+35,45707.43,11701.55,Self-Employed,Not Graduate,Urban,0
+30,36232.14,10457.82,Self-Employed,Graduate,Urban,1
+36,60754.96,8655.41,Employed,Graduate,Urban,1
+42,34221.62,9603.05,Self-Employed,Graduate,Rural,0
+57,49576.51,43461.8,Self-Employed,Graduate,Rural,1
+40,48842.32,21979.64,Employed,Not Graduate,Urban,0
+41,75686.74,7782.01,Employed,Graduate,Rural,0
+37,59271.23,7871.6,Self-Employed,Graduate,Urban,1
+21,48532.51,16199.67,Employed,Not Graduate,Rural,0
+38,67989.36,16629.04,Unemployed,Not Graduate,Rural,0
+39,85483.87,16639.81,Self-Employed,Graduate,Rural,1
+63,61274.81,12064.44,Employed,Graduate,Semiurban,1
+36,49224.22,12705.86,Employed,Graduate,Urban,1
+41,29006.22,15231.97,Employed,Graduate,Semiurban,1
+38,32014.83,13826.71,Unemployed,Graduate,Rural,0
+26,43386.78,5498.77,Employed,Not Graduate,Rural,1
+49,38414.69,12186.45,Self-Employed,Graduate,Rural,1
+46,45488.35,9503.71,Employed,Graduate,Urban,1
+46,50144.29,14329.63,Employed,Graduate,Rural,1
+29,60589.51,44095.08,Employed,Not Graduate,Rural,0
+52,47657.75,15475.18,Employed,Not Graduate,Urban,1
+24,59551.73,11785.06,Unemployed,Graduate,Urban,1
+44,50301.48,19316.61,Employed,Not Graduate,Urban,1
+60,22243.68,16205.0,Employed,Graduate,Semiurban,1
+28,33666.75,15804.31,Employed,Graduate,Rural,0
+32,46275.36,17030.14,Employed,Graduate,Urban,1
+39,30215.86,30412.76,Employed,Graduate,Urban,1
+33,62315.88,8498.5,Self-Employed,Graduate,Rural,1
+22,90427.2,16146.41,Employed,Not Graduate,Semiurban,1
+39,79818.03,9222.93,Employed,Graduate,Urban,1
+27,45009.23,16683.99,Employed,Not Graduate,Urban,1
+43,88990.99,9251.36,Unemployed,Graduate,Semiurban,1
+29,52024.34,11305.6,Employed,Graduate,Urban,1
+53,42837.35,11872.31,Employed,Graduate,Urban,1
+30,38354.95,19738.51,Self-Employed,Graduate,Semiurban,1
+35,43434.62,19290.77,Employed,Graduate,Rural,0
+46,41970.79,8116.98,Employed,Graduate,Urban,1
+26,52478.9,13656.54,Employed,Graduate,Urban,1
+40,52272.7,10058.45,Self-Employed,Graduate,Urban,1
+51,49080.56,8075.56,Employed,Not Graduate,Urban,1
+22,58382.72,12248.92,Self-Employed,Graduate,Semiurban,1
+40,78925.41,11808.88,Employed,Graduate,Rural,1
+41,71669.58,35266.42,Employed,Graduate,Semiurban,1
+46,27066.2,15885.85,Employed,Not Graduate,Semiurban,0
+26,17648.95,7699.83,Employed,Not Graduate,Rural,0
+25,71234.17,10658.26,Self-Employed,Graduate,Urban,1
+43,28374.57,20101.57,Employed,Graduate,Rural,0
+41,44805.84,30803.3,Employed,Graduate,Semiurban,0
+41,30698.06,7084.09,Employed,Not Graduate,Semiurban,1
+41,23842.09,6298.27,Unemployed,Not Graduate,Urban,0
+31,60875.44,28236.93,Employed,Graduate,Rural,1
+40,66413.93,15612.79,Unemployed,Graduate,Rural,0
+41,38925.15,9439.73,Employed,Graduate,Semiurban,0
+31,17388.83,16545.21,Employed,Not Graduate,Urban,0
+57,39399.26,4655.02,Employed,Graduate,Rural,1
+43,57338.16,13377.78,Employed,Graduate,Semiurban,0
+26,27131.08,15231.61,Employed,Graduate,Rural,1
+45,52751.31,19335.69,Employed,Not Graduate,Rural,0
+28,48721.52,8905.65,Unemployed,Not Graduate,Urban,0
+46,61803.58,13825.57,Self-Employed,Not Graduate,Urban,1
+50,51422.55,9226.45,Self-Employed,Graduate,Urban,1
+30,33215.52,14796.61,Employed,Not Graduate,Semiurban,0
+48,79112.69,9338.13,Employed,Graduate,Urban,1
+42,46008.81,11347.58,Employed,Graduate,Rural,1
+46,48488.32,8970.3,Self-Employed,Graduate,Rural,0
+57,33748.55,17334.51,Unemployed,Not Graduate,Urban,0
+36,41055.79,18833.27,Employed,Graduate,Rural,1
+30,34409.19,12162.97,Employed,Not Graduate,Semiurban,0
+29,45744.26,13565.64,Employed,Not Graduate,Semiurban,0
+30,97215.3,7484.3,Employed,Graduate,Rural,1
+37,28317.62,11850.55,Employed,Graduate,Rural,0
+41,25708.46,13094.11,Employed,Graduate,Urban,1
+41,88297.59,38113.25,Self-Employed,Graduate,Semiurban,1
+46,45083.45,8563.06,Employed,Graduate,Urban,1
+38,37510.3,23996.68,Employed,Graduate,Semiurban,1
+53,74307.11,19905.34,Unemployed,Not Graduate,Urban,0
+35,38474.61,14946.83,Employed,Not Graduate,Semiurban,0
+65,101763.21,26996.11,Employed,Graduate,Semiurban,1
+44,64290.71,15503.83,Employed,Graduate,Semiurban,1
+29,40329.38,15609.95,Employed,Graduate,Urban,1
+27,116183.17,13078.85,Employed,Not Graduate,Rural,1
+43,38473.08,21794.82,Self-Employed,Not Graduate,Rural,1
+36,65962.27,20714.47,Employed,Graduate,Semiurban,0
+45,55255.16,10401.75,Employed,Graduate,Urban,1
+43,82511.79,7881.72,Self-Employed,Not Graduate,Semiurban,0
+37,91546.7,12317.89,Employed,Graduate,Semiurban,1
+30,49652.38,9701.0,Self-Employed,Graduate,Urban,1
+23,36265.89,13024.54,Self-Employed,Graduate,Semiurban,1
+34,58923.12,21916.07,Employed,Graduate,Rural,1
+47,37380.85,11126.44,Self-Employed,Graduate,Rural,0
+40,109683.57,13132.83,Employed,Not Graduate,Urban,1
+26,51772.49,13673.42,Unemployed,Not Graduate,Rural,0
+40,42356.25,18757.94,Employed,Graduate,Semiurban,0
+42,52779.18,5438.42,Unemployed,Not Graduate,Rural,0
+29,28599.64,10481.01,Self-Employed,Graduate,Rural,0
+40,33234.85,14537.89,Employed,Not Graduate,Rural,0
+39,79234.38,21590.99,Employed,Graduate,Semiurban,1
+27,37693.48,10973.51,Unemployed,Not Graduate,Urban,0
+42,32248.78,6306.77,Self-Employed,Not Graduate,Semiurban,0
+44,60758.43,17117.98,Employed,Graduate,Rural,1
+49,78769.54,10361.53,Self-Employed,Not Graduate,Urban,1
+49,65354.48,8301.02,Employed,Not Graduate,Urban,0
+24,73014.92,10407.29,Employed,Not Graduate,Rural,0
+29,36216.93,12409.16,Employed,Graduate,Semiurban,1
+43,27757.9,10489.21,Employed,Not Graduate,Rural,0
+43,89369.39,5529.06,Self-Employed,Not Graduate,Semiurban,1
+43,43084.91,19126.43,Employed,Graduate,Urban,1
+65,44341.08,22246.72,Self-Employed,Not Graduate,Rural,0
+44,83389.5,17337.18,Employed,Graduate,Semiurban,1
+49,61236.09,8475.42,Employed,Graduate,Semiurban,1
+48,58826.94,12325.23,Employed,Graduate,Urban,1
+45,116541.29,13324.92,Employed,Graduate,Rural,1
+35,37895.69,16975.35,Employed,Graduate,Urban,1
+46,71049.78,17454.21,Employed,Graduate,Rural,1
+30,50151.58,9959.98,Employed,Not Graduate,Semiurban,0
+36,54580.77,13805.17,Employed,Graduate,Semiurban,1
+33,90344.68,16041.14,Employed,Graduate,Urban,1
+39,60062.1,23916.62,Employed,Graduate,Semiurban,1
+61,60798.38,17708.55,Self-Employed,Graduate,Rural,1
+21,75282.5,18317.69,Unemployed,Not Graduate,Rural,0
+45,42362.5,13815.28,Employed,Not Graduate,Rural,0
+22,35042.47,23486.56,Employed,Not Graduate,Rural,1
+33,32275.91,15739.13,Employed,Graduate,Rural,1
+49,22324.89,9466.98,Unemployed,Graduate,Rural,0
+39,111578.41,23420.06,Employed,Graduate,Rural,1
+27,31530.69,17661.83,Employed,Graduate,Urban,1
+31,44868.83,11190.07,Employed,Graduate,Semiurban,1
+45,43882.67,11028.11,Employed,Not Graduate,Rural,0
+31,55434.79,15042.43,Employed,Graduate,Urban,1
+40,67934.2,16079.07,Self-Employed,Not Graduate,Semiurban,0
+38,69160.79,14456.75,Employed,Graduate,Semiurban,1
+31,38823.03,15131.34,Employed,Graduate,Semiurban,1
+59,45850.96,26370.02,Employed,Graduate,Urban,1
+44,54887.01,20508.96,Employed,Graduate,Urban,1
+21,44379.08,14418.31,Unemployed,Not Graduate,Rural,0
+40,93240.57,19467.94,Employed,Graduate,Urban,1
+31,59658.38,8839.54,Self-Employed,Graduate,Semiurban,1
+47,65772.11,15664.79,Employed,Not Graduate,Urban,1
+30,63904.98,27549.03,Employed,Graduate,Urban,1
+37,78385.13,12243.88,Unemployed,Graduate,Rural,1
+43,52702.0,9518.06,Employed,Graduate,Rural,1
+47,29180.83,10292.44,Self-Employed,Graduate,Semiurban,0
+26,57519.26,8639.9,Employed,Not Graduate,Rural,0
+35,37777.06,9760.46,Self-Employed,Not Graduate,Urban,0
+33,39678.05,11519.5,Employed,Not Graduate,Urban,0
+31,61978.67,7614.22,Employed,Graduate,Rural,1
+56,80443.73,13443.45,Self-Employed,Graduate,Urban,1
+42,49439.68,19166.34,Unemployed,Not Graduate,Rural,0
+25,55466.43,9291.89,Unemployed,Graduate,Rural,0
+47,96846.83,24531.51,Self-Employed,Graduate,Semiurban,1
+59,53976.35,16388.2,Self-Employed,Graduate,Semiurban,1
+48,138783.89,20175.66,Employed,Graduate,Semiurban,1
+23,61463.81,10268.81,Employed,Graduate,Semiurban,0
+33,24238.44,18803.72,Employed,Not Graduate,Urban,0
+51,66259.67,8631.96,Employed,Not Graduate,Urban,1
+31,57094.52,19074.34,Employed,Graduate,Urban,1
+42,82117.06,14310.31,Employed,Graduate,Semiurban,1
+46,64168.81,16668.91,Employed,Graduate,Semiurban,1
+29,46379.72,8347.87,Self-Employed,Not Graduate,Semiurban,0
+37,30039.87,9339.16,Employed,Graduate,Urban,1
+21,45088.87,16964.72,Employed,Not Graduate,Semiurban,1
+28,34884.29,9142.24,Employed,Graduate,Rural,1
+35,38862.72,16079.21,Self-Employed,Graduate,Urban,1
+26,62033.59,7732.17,Self-Employed,Graduate,Rural,1
+54,95603.22,18756.01,Employed,Not Graduate,Urban,1
+24,57403.96,8159.93,Employed,Graduate,Rural,1
+34,30383.25,16662.57,Employed,Graduate,Urban,0
+39,58561.99,17158.56,Employed,Graduate,Rural,0
+52,79114.59,10110.11,Employed,Not Graduate,Rural,0
+24,38410.53,16861.88,Employed,Not Graduate,Semiurban,0
+50,46462.14,14826.58,Employed,Graduate,Rural,1
+38,49309.66,10769.39,Employed,Not Graduate,Rural,0
+28,35812.08,8924.7,Unemployed,Graduate,Semiurban,1
+43,63532.84,6093.33,Unemployed,Graduate,Semiurban,0
+40,46705.66,15365.19,Employed,Graduate,Urban,1
+32,57977.66,7144.36,Employed,Graduate,Rural,1
+39,34372.19,13879.08,Employed,Not Graduate,Urban,1
+34,41151.54,12023.53,Employed,Not Graduate,Urban,1
+39,65444.16,17529.79,Unemployed,Graduate,Rural,0
+45,42229.18,11839.32,Employed,Graduate,Semiurban,1
+54,97810.34,11710.26,Self-Employed,Not Graduate,Urban,1
+26,41778.85,17903.44,Employed,Not Graduate,Semiurban,0
+59,53630.54,15275.77,Unemployed,Graduate,Semiurban,1
+21,71184.92,15160.71,Employed,Not Graduate,Semiurban,1
+36,27796.18,16118.24,Self-Employed,Graduate,Urban,1
+44,24237.99,7228.39,Employed,Graduate,Semiurban,1
+41,26628.5,18082.78,Employed,Not Graduate,Urban,0
+32,81229.49,17068.46,Employed,Graduate,Rural,0
+36,39310.89,8895.73,Employed,Graduate,Urban,1
+33,136390.82,12117.04,Unemployed,Graduate,Urban,1
+32,39116.55,13151.32,Unemployed,Not Graduate,Semiurban,0
+46,52776.46,12659.98,Self-Employed,Not Graduate,Rural,0
+42,90839.0,15268.45,Employed,Graduate,Urban,1
+31,109364.01,23683.8,Self-Employed,Graduate,Urban,1
+47,111815.05,20593.0,Employed,Graduate,Rural,1
+41,79486.82,7903.91,Employed,Graduate,Urban,1
+46,73837.72,17134.14,Employed,Graduate,Semiurban,1
+44,62131.65,22733.01,Employed,Not Graduate,Urban,0
+30,66926.11,15595.28,Employed,Graduate,Urban,1
+32,39321.46,20669.04,Employed,Graduate,Rural,1
+45,35338.22,29878.91,Employed,Graduate,Rural,1
+44,48954.68,20120.29,Self-Employed,Graduate,Urban,1
+38,45794.81,14760.7,Employed,Not Graduate,Urban,1
+39,40892.78,20293.08,Employed,Graduate,Semiurban,0
+51,64767.23,14156.87,Employed,Graduate,Rural,0
+32,71834.64,13488.07,Employed,Graduate,Urban,1
+43,50785.33,11607.82,Employed,Graduate,Rural,0
+36,88522.5,24968.38,Employed,Graduate,Semiurban,1
+36,31049.08,9629.9,Employed,Graduate,Urban,1
+49,45366.82,24660.23,Self-Employed,Graduate,Urban,1
+46,36800.66,16316.72,Employed,Graduate,Semiurban,0
+46,23234.31,7633.32,Self-Employed,Graduate,Rural,1
+51,47426.09,15476.22,Employed,Graduate,Rural,1
+38,46690.73,5767.47,Employed,Not Graduate,Urban,1
+45,89803.56,17157.72,Self-Employed,Graduate,Urban,1
+35,63090.45,19036.1,Employed,Graduate,Rural,1
+41,32543.25,10541.32,Employed,Graduate,Urban,1
+37,102912.77,14036.54,Self-Employed,Graduate,Rural,1
+39,79890.6,29192.38,Employed,Not Graduate,Rural,0
+44,61872.99,10912.91,Self-Employed,Graduate,Urban,0
+30,44775.05,8746.75,Employed,Not Graduate,Semiurban,0
+59,33397.1,24165.12,Self-Employed,Graduate,Semiurban,1
+28,42239.76,29290.98,Employed,Graduate,Semiurban,1
+26,75773.16,13379.49,Employed,Not Graduate,Urban,1
+50,104175.74,20021.97,Employed,Graduate,Urban,1
+46,90880.2,22847.35,Employed,Graduate,Rural,1
+44,40314.25,9926.93,Employed,Graduate,Urban,1
+44,31324.41,11002.5,Employed,Not Graduate,Semiurban,1
+38,51862.67,21858.6,Employed,Graduate,Urban,0
+29,24164.12,26212.87,Employed,Not Graduate,Rural,0
+39,55785.38,16733.24,Employed,Graduate,Urban,1
+31,46210.34,9396.33,Unemployed,Not Graduate,Rural,0
+48,40683.81,29579.13,Employed,Graduate,Urban,1
+37,25903.12,10803.35,Employed,Not Graduate,Rural,0
+30,60200.75,11683.64,Employed,Graduate,Urban,1
+35,39613.28,15320.32,Employed,Not Graduate,Semiurban,0
+42,30700.47,24876.13,Unemployed,Graduate,Urban,0
+32,15538.8,18799.59,Employed,Graduate,Semiurban,0
+30,48484.24,15771.29,Unemployed,Graduate,Semiurban,0
+40,99598.33,16079.74,Employed,Graduate,Urban,1
+40,95273.19,13594.3,Self-Employed,Graduate,Semiurban,1
+33,40829.56,16701.53,Employed,Not Graduate,Urban,1
+33,38527.02,4857.0,Self-Employed,Not Graduate,Semiurban,0
+40,59130.95,11865.1,Employed,Graduate,Rural,1
+24,32880.85,14713.62,Employed,Not Graduate,Urban,1
+24,55310.43,8430.36,Employed,Graduate,Urban,1
+31,66598.15,15592.25,Employed,Graduate,Urban,1
+36,80079.35,12310.55,Unemployed,Not Graduate,Semiurban,0
+41,47095.77,26962.18,Employed,Not Graduate,Urban,1
+53,45185.45,25064.5,Employed,Not Graduate,Rural,0
+47,34503.19,11088.65,Self-Employed,Graduate,Rural,1
+36,35215.72,12577.5,Employed,Not Graduate,Semiurban,0
+38,44775.14,12970.35,Unemployed,Graduate,Urban,0
+28,56780.38,11151.58,Self-Employed,Graduate,Rural,1
+38,70645.79,14443.65,Employed,Graduate,Rural,1
+35,35551.17,9864.4,Self-Employed,Not Graduate,Semiurban,0
+41,89060.88,8499.43,Employed,Not Graduate,Urban,1
+30,43982.65,17138.53,Employed,Not Graduate,Urban,0
+43,48603.61,17185.34,Employed,Graduate,Urban,1
+53,36356.03,9684.42,Employed,Graduate,Semiurban,1
+37,18588.6,19113.35,Self-Employed,Graduate,Urban,1
+42,69815.98,10377.23,Unemployed,Graduate,Rural,1
+45,65823.85,14783.49,Employed,Graduate,Urban,1
+34,43803.5,18548.38,Employed,Not Graduate,Semiurban,1
+40,50352.13,13181.31,Unemployed,Graduate,Semiurban,0
+38,60257.1,16024.86,Employed,Graduate,Rural,1
+39,26238.46,10866.37,Employed,Graduate,Urban,0
+30,39671.13,12350.03,Employed,Graduate,Urban,1
+38,67353.21,12303.71,Unemployed,Graduate,Urban,0
+43,29681.65,9910.68,Employed,Not Graduate,Urban,0
+53,55128.56,12447.69,Self-Employed,Graduate,Rural,1
+48,28491.68,7190.76,Self-Employed,Not Graduate,Rural,0
+60,59075.53,10976.79,Employed,Graduate,Semiurban,1
+30,48326.89,11920.92,Employed,Graduate,Rural,0
+47,25692.32,12058.54,Self-Employed,Graduate,Rural,1
+40,78111.75,12129.56,Employed,Not Graduate,Rural,0
+60,36540.02,13033.71,Self-Employed,Not Graduate,Rural,0
+30,35450.73,16183.97,Unemployed,Graduate,Urban,0
+30,53115.69,18954.69,Employed,Graduate,Rural,0
+32,77610.26,10302.01,Self-Employed,Graduate,Rural,1
+21,32652.32,8256.2,Self-Employed,Graduate,Semiurban,0
+33,50245.28,8805.94,Self-Employed,Not Graduate,Semiurban,0
+30,58193.36,10994.15,Employed,Graduate,Urban,1
+40,64682.26,11605.47,Employed,Graduate,Urban,1
+41,52605.54,9818.28,Employed,Graduate,Rural,1
+57,42327.36,7954.98,Self-Employed,Graduate,Rural,1
+48,35205.72,11131.69,Employed,Graduate,Urban,1
+32,50739.38,14365.3,Self-Employed,Graduate,Semiurban,1
+29,31924.99,16949.81,Employed,Not Graduate,Semiurban,0
+43,15236.66,10689.64,Employed,Not Graduate,Semiurban,0
+25,58373.89,11325.37,Employed,Graduate,Urban,1
+56,70373.63,9221.76,Self-Employed,Not Graduate,Semiurban,0
+50,19050.09,13192.77,Employed,Graduate,Semiurban,0
+33,32731.98,9515.04,Employed,Graduate,Rural,0
+21,62796.94,16801.97,Employed,Graduate,Rural,1
+52,111635.93,6539.74,Self-Employed,Graduate,Semiurban,1
+37,49430.23,11569.74,Employed,Graduate,Rural,0
+50,36636.45,15069.72,Employed,Graduate,Rural,1
+22,45562.55,14379.14,Unemployed,Graduate,Rural,0
+32,84961.25,39230.64,Self-Employed,Not Graduate,Rural,0
+38,37858.63,15366.11,Unemployed,Graduate,Urban,1
+38,35607.91,8940.78,Employed,Graduate,Semiurban,0
+33,40412.83,12859.19,Employed,Graduate,Rural,0
+44,33478.83,6564.96,Self-Employed,Graduate,Rural,1
+27,51486.15,12935.88,Employed,Graduate,Urban,1
+37,93889.27,9573.72,Self-Employed,Not Graduate,Rural,1
+39,55783.41,19267.14,Employed,Graduate,Urban,1
+43,44314.12,10723.4,Employed,Graduate,Urban,1
+45,43620.19,12750.09,Employed,Graduate,Rural,1
+27,26231.69,10360.72,Employed,Graduate,Rural,1
+23,69789.85,26783.48,Employed,Graduate,Rural,1
+51,47518.06,11748.76,Employed,Graduate,Urban,1
+41,45606.61,27806.44,Unemployed,Graduate,Rural,1
+31,175824.75,18502.49,Employed,Graduate,Urban,1
+54,55243.23,16200.97,Self-Employed,Graduate,Semiurban,0
+39,36289.49,15482.93,Self-Employed,Not Graduate,Rural,0
+50,41334.67,15638.94,Employed,Graduate,Rural,1
+39,77604.31,6179.12,Employed,Not Graduate,Urban,0
+59,51292.93,11949.52,Self-Employed,Not Graduate,Urban,1
+56,27575.66,18733.4,Employed,Graduate,Semiurban,1
+36,70805.47,13100.96,Self-Employed,Graduate,Urban,1
+48,37524.24,7615.37,Self-Employed,Graduate,Rural,1
+44,103706.4,13082.6,Unemployed,Not Graduate,Rural,0
+52,75509.91,26413.81,Employed,Graduate,Urban,1
+28,40989.5,21999.1,Employed,Not Graduate,Semiurban,0
+45,81830.6,13032.46,Employed,Not Graduate,Rural,1
+49,50369.56,19547.05,Employed,Not Graduate,Urban,1
+21,68948.11,11537.95,Self-Employed,Graduate,Urban,1
+26,59509.61,6757.79,Employed,Graduate,Urban,1
+21,34942.44,9229.99,Employed,Not Graduate,Semiurban,0
+35,37895.21,24963.14,Self-Employed,Graduate,Rural,1
+45,74012.13,11972.92,Employed,Graduate,Urban,1
+53,42876.96,12120.41,Employed,Not Graduate,Urban,0
+39,41711.85,11849.78,Employed,Graduate,Rural,0
+54,33454.81,28614.09,Self-Employed,Not Graduate,Rural,0
+24,58072.04,25600.92,Employed,Not Graduate,Rural,0
+21,111860.74,32451.83,Self-Employed,Graduate,Urban,1
+37,31983.86,12536.28,Employed,Not Graduate,Urban,0
+42,49498.01,15036.71,Self-Employed,Graduate,Rural,0
+38,86239.9,7283.33,Self-Employed,Graduate,Semiurban,1
+21,47483.78,24119.45,Employed,Graduate,Urban,1
+37,58744.26,8374.01,Employed,Graduate,Rural,1
+25,32049.68,14569.86,Employed,Graduate,Rural,0
+45,58181.51,8613.44,Self-Employed,Graduate,Rural,0
+42,45485.2,10556.04,Employed,Graduate,Urban,1
+29,72714.2,9557.63,Employed,Graduate,Semiurban,1
+33,78822.55,10476.08,Employed,Not Graduate,Rural,0
+27,138112.72,10768.18,Employed,Not Graduate,Rural,1
+37,61812.03,10728.86,Employed,Graduate,Urban,1
+48,55844.06,18645.01,Employed,Graduate,Urban,1
+28,52984.45,8587.43,Employed,Graduate,Urban,1
+43,42562.7,14591.82,Self-Employed,Graduate,Semiurban,1
+33,56128.19,21745.97,Self-Employed,Not Graduate,Urban,0
+30,43557.6,10880.43,Employed,Not Graduate,Rural,0
+37,52437.87,10024.95,Unemployed,Graduate,Rural,1
+28,83036.79,12182.92,Self-Employed,Graduate,Rural,1
+32,32773.74,21415.93,Unemployed,Graduate,Rural,0
+26,77338.83,14438.35,Employed,Graduate,Urban,1
+58,83020.76,10802.3,Employed,Graduate,Urban,1
+38,46759.49,16212.71,Employed,Not Graduate,Urban,0
+31,20978.6,8596.27,Self-Employed,Not Graduate,Rural,0
+40,38440.67,17545.34,Employed,Graduate,Rural,0
+37,82355.28,15731.86,Employed,Graduate,Urban,1
+36,48574.44,11812.06,Employed,Not Graduate,Rural,0
+44,32868.8,9552.57,Employed,Graduate,Urban,1
+46,40058.25,9370.56,Employed,Graduate,Urban,1
+33,68613.73,16546.45,Employed,Graduate,Urban,1
+32,61003.92,21842.05,Employed,Not Graduate,Semiurban,0
+35,44552.66,10353.47,Employed,Graduate,Urban,1
+21,42330.8,16048.24,Unemployed,Not Graduate,Urban,0
+23,41910.71,5797.54,Self-Employed,Not Graduate,Urban,0
+52,33895.45,10573.99,Unemployed,Not Graduate,Urban,0
+54,93540.55,13194.78,Self-Employed,Not Graduate,Rural,0
+36,43091.1,9284.73,Employed,Graduate,Urban,1
+44,79766.86,9185.65,Employed,Graduate,Urban,1
+41,90086.57,10228.04,Self-Employed,Not Graduate,Rural,1
+65,73081.05,15016.08,Employed,Not Graduate,Urban,1
+49,41247.75,12395.25,Employed,Graduate,Semiurban,1
+37,57612.34,5457.29,Employed,Graduate,Rural,1
+28,48548.65,5719.98,Employed,Not Graduate,Urban,0
+22,34150.05,10480.31,Employed,Not Graduate,Rural,0
+40,55811.97,16043.75,Employed,Graduate,Urban,1
+30,30588.64,4451.51,Employed,Graduate,Rural,1
+24,78831.8,10939.2,Self-Employed,Graduate,Rural,1
+32,40706.91,10823.78,Employed,Graduate,Urban,1
+27,53128.24,23279.66,Employed,Graduate,Rural,1
+55,54902.55,11452.82,Employed,Graduate,Semiurban,1
+47,44198.14,15571.47,Self-Employed,Graduate,Semiurban,0
+38,61986.85,14136.32,Employed,Graduate,Rural,0
+53,40539.76,5697.45,Employed,Not Graduate,Rural,0
+39,69460.87,18165.56,Employed,Not Graduate,Urban,1
+29,28612.76,14561.82,Employed,Graduate,Urban,1
+53,51562.6,16371.67,Unemployed,Graduate,Rural,0
+43,106465.0,64247.31,Unemployed,Not Graduate,Urban,0
+28,32855.27,5804.3,Employed,Graduate,Semiurban,0
+36,37380.41,26632.26,Employed,Not Graduate,Urban,1
+29,60208.16,11908.66,Self-Employed,Not Graduate,Rural,0
+24,52671.65,14986.9,Employed,Graduate,Rural,1
+47,56401.56,13118.71,Employed,Not Graduate,Semiurban,1
+57,59615.74,11274.57,Employed,Graduate,Rural,1
+24,63189.19,10636.71,Unemployed,Graduate,Rural,1
+44,76410.85,15241.9,Employed,Graduate,Urban,1
+31,57752.82,7281.78,Employed,Graduate,Semiurban,1
+33,44511.24,18037.92,Self-Employed,Not Graduate,Urban,0
+32,64153.21,11310.9,Employed,Graduate,Semiurban,1
+29,104815.06,8501.28,Employed,Graduate,Rural,1
+38,46487.86,11158.92,Unemployed,Graduate,Rural,1
+30,33196.12,22089.54,Employed,Not Graduate,Rural,0
+41,76330.84,10784.51,Employed,Graduate,Rural,0
+37,46716.26,15419.4,Employed,Graduate,Urban,1
+36,20556.49,9972.81,Employed,Not Graduate,Semiurban,0
+29,68800.66,18090.98,Employed,Graduate,Rural,1
+32,39571.67,17574.48,Employed,Not Graduate,Urban,0
+46,47277.35,27985.55,Employed,Graduate,Urban,1
+43,55982.37,12453.72,Self-Employed,Not Graduate,Rural,0
+28,52902.18,17456.41,Employed,Not Graduate,Rural,1
+39,65106.57,13894.2,Employed,Graduate,Rural,0
+46,41184.01,22434.35,Employed,Graduate,Rural,0
+21,60188.85,10021.29,Self-Employed,Not Graduate,Rural,0
+43,44186.8,17997.75,Employed,Graduate,Semiurban,0
+31,65875.65,12358.77,Employed,Not Graduate,Rural,0
+44,62701.9,13021.08,Employed,Graduate,Semiurban,1
+30,33719.26,13859.15,Employed,Graduate,Urban,1
+21,75689.36,14778.02,Employed,Graduate,Rural,1
+22,39561.62,12752.83,Self-Employed,Not Graduate,Urban,1
+38,67725.84,14557.84,Employed,Graduate,Rural,1
+41,56778.61,25115.67,Employed,Not Graduate,Semiurban,0
+29,102259.96,19814.71,Employed,Not Graduate,Urban,1
+44,44829.14,18914.08,Self-Employed,Graduate,Urban,1
+21,42628.29,11134.28,Employed,Graduate,Semiurban,1
+37,48641.49,9360.97,Employed,Not Graduate,Urban,0
+26,43422.29,19577.19,Employed,Graduate,Rural,1
+31,67506.34,18966.29,Employed,Not Graduate,Rural,0
+38,25680.21,24078.35,Employed,Graduate,Semiurban,1
+29,32161.55,10492.41,Employed,Graduate,Urban,1
+34,31980.41,12187.68,Employed,Not Graduate,Urban,0
+48,71691.18,6934.1,Employed,Graduate,Rural,1
+32,97172.73,11418.74,Employed,Graduate,Semiurban,1
+46,47014.92,19903.05,Employed,Graduate,Rural,1
+27,45819.79,11085.6,Employed,Graduate,Urban,1
+43,50413.83,17260.78,Self-Employed,Graduate,Rural,1
+52,78022.41,12379.52,Unemployed,Not Graduate,Semiurban,0
+21,33828.49,15208.7,Unemployed,Graduate,Semiurban,1
+30,53924.9,8441.57,Self-Employed,Graduate,Semiurban,0
+44,72408.51,13822.93,Employed,Not Graduate,Urban,0
+36,59900.35,4038.16,Self-Employed,Graduate,Urban,1
+42,52882.76,12397.39,Employed,Graduate,Rural,1
+32,73161.05,6959.14,Employed,Not Graduate,Semiurban,0
+39,16625.74,21642.14,Employed,Not Graduate,Urban,0
+36,64289.41,18232.54,Employed,Graduate,Urban,1
+50,37736.0,16101.51,Self-Employed,Graduate,Semiurban,0
+41,23570.4,24548.41,Employed,Graduate,Urban,1
+41,60143.04,9140.16,Employed,Graduate,Urban,1
+34,84919.87,26874.83,Unemployed,Graduate,Rural,0
+33,46398.42,19397.06,Employed,Graduate,Rural,1
+34,71764.83,12153.57,Employed,Graduate,Semiurban,1
+42,93424.72,21041.42,Unemployed,Graduate,Urban,1
+34,82947.72,8582.52,Employed,Graduate,Rural,1
+41,94465.11,9606.49,Employed,Not Graduate,Rural,1
+59,65963.11,10473.09,Employed,Graduate,Rural,1
+47,50522.47,10811.97,Employed,Graduate,Rural,1
+35,25827.98,8754.97,Self-Employed,Graduate,Urban,1
+50,44425.77,21790.58,Employed,Graduate,Urban,1
+34,34985.93,12045.64,Employed,Not Graduate,Urban,1
+21,116818.54,15382.75,Employed,Graduate,Urban,1
+28,45690.5,10634.51,Employed,Graduate,Rural,0
+21,51497.16,6449.51,Unemployed,Graduate,Semiurban,0
+34,61119.98,14883.72,Employed,Not Graduate,Semiurban,0
+38,49883.27,6217.34,Employed,Graduate,Semiurban,1
+55,96569.71,12997.94,Employed,Graduate,Urban,1
+41,38213.35,7728.53,Self-Employed,Graduate,Rural,1
+36,52989.18,29581.68,Unemployed,Graduate,Rural,1
+46,36425.04,19236.12,Employed,Graduate,Urban,1
+21,28911.39,13936.99,Employed,Graduate,Urban,1
+40,38380.02,22147.56,Employed,Not Graduate,Rural,0
+46,48299.92,9523.08,Self-Employed,Not Graduate,Semiurban,0
+23,41286.02,16603.88,Employed,Graduate,Urban,1
+49,37161.61,14471.32,Self-Employed,Graduate,Urban,1
+41,27930.46,14847.82,Employed,Graduate,Semiurban,0
+34,47418.03,22224.3,Self-Employed,Not Graduate,Urban,1
+44,26852.44,17907.89,Employed,Graduate,Semiurban,1
+61,66437.86,14995.26,Employed,Not Graduate,Semiurban,0
+40,50664.25,6891.51,Employed,Graduate,Semiurban,1
+40,27363.89,9099.56,Employed,Graduate,Rural,1
+33,43317.69,12719.82,Unemployed,Graduate,Rural,1
+30,36284.19,13868.13,Self-Employed,Graduate,Rural,0
+46,55696.34,8500.83,Self-Employed,Not Graduate,Rural,0
+29,83799.32,35054.9,Employed,Not Graduate,Rural,0
+39,23154.19,24503.17,Employed,Graduate,Urban,1
+33,51328.96,16997.94,Self-Employed,Graduate,Rural,1
+43,45979.31,13750.28,Employed,Not Graduate,Rural,0
+41,64121.57,12272.5,Employed,Not Graduate,Semiurban,0
+48,53384.66,9129.19,Employed,Graduate,Semiurban,0
+33,36286.91,13780.26,Employed,Graduate,Rural,1
+35,43147.44,14810.64,Employed,Graduate,Urban,1
+28,35653.04,8129.83,Employed,Graduate,Semiurban,0
+34,75387.96,15270.38,Employed,Graduate,Rural,1
+42,49440.47,12555.28,Unemployed,Graduate,Semiurban,0
+46,104869.95,6228.41,Employed,Graduate,Semiurban,1
+29,47845.66,9469.64,Employed,Graduate,Urban,1
+47,36924.75,11322.62,Employed,Graduate,Semiurban,0
+52,26756.01,28426.44,Self-Employed,Not Graduate,Urban,0
+42,23831.04,16690.94,Employed,Not Graduate,Urban,0
+57,26012.84,7830.7,Employed,Graduate,Rural,0
+30,54548.78,16226.72,Employed,Not Graduate,Urban,1
+26,60083.47,7194.55,Employed,Not Graduate,Semiurban,0
+21,26043.51,20600.62,Employed,Graduate,Urban,1
+53,70123.65,11065.09,Self-Employed,Graduate,Urban,1
+45,40407.7,12868.6,Self-Employed,Not Graduate,Rural,0
+37,51985.35,22704.51,Employed,Not Graduate,Semiurban,0
+41,93422.57,7983.52,Employed,Not Graduate,Semiurban,1
+27,70174.18,7640.0,Unemployed,Not Graduate,Semiurban,0
+62,44028.29,10578.3,Employed,Graduate,Rural,0
+39,34321.36,20238.69,Self-Employed,Graduate,Rural,0
+39,20728.69,7275.45,Employed,Graduate,Urban,1
+45,36766.36,4303.3,Unemployed,Graduate,Urban,1
+43,45050.88,11153.81,Self-Employed,Graduate,Rural,1
+40,33028.57,16658.84,Unemployed,Graduate,Rural,0
+30,46513.47,21592.57,Self-Employed,Graduate,Rural,1
+43,50551.14,11100.39,Employed,Not Graduate,Semiurban,0
+57,44804.22,11332.49,Unemployed,Graduate,Rural,0
+51,37797.53,21195.84,Employed,Graduate,Urban,1
+54,52441.94,6323.98,Employed,Graduate,Urban,1
+33,58499.66,11436.8,Self-Employed,Graduate,Semiurban,1
+28,31692.66,14417.09,Self-Employed,Not Graduate,Semiurban,1
+37,86195.47,15989.5,Unemployed,Not Graduate,Semiurban,0
+39,47125.27,10895.2,Employed,Not Graduate,Urban,0
+49,49391.81,13545.05,Self-Employed,Graduate,Semiurban,1
+21,65074.35,4937.77,Self-Employed,Graduate,Urban,1
+53,53813.87,10267.11,Employed,Graduate,Urban,1
+36,71772.36,16016.96,Employed,Graduate,Semiurban,1
+34,54986.87,9018.94,Employed,Not Graduate,Urban,1
+28,38369.76,13678.68,Employed,Not Graduate,Rural,1
+21,56647.4,15974.5,Unemployed,Not Graduate,Urban,0
+46,31023.79,11649.05,Employed,Graduate,Rural,1
+39,51196.37,14302.44,Self-Employed,Not Graduate,Semiurban,0
+25,48373.53,9089.79,Unemployed,Graduate,Urban,0
+25,45105.22,12300.01,Employed,Not Graduate,Rural,1
+35,46564.09,17053.09,Self-Employed,Graduate,Urban,1
+55,23092.44,14225.47,Employed,Graduate,Rural,1
+35,39360.18,10565.9,Self-Employed,Graduate,Urban,1
+23,50875.56,14613.29,Employed,Not Graduate,Urban,1
+36,52257.7,17780.26,Unemployed,Graduate,Urban,1
+35,32497.87,5884.18,Employed,Graduate,Urban,1
+21,81331.05,21239.75,Employed,Not Graduate,Semiurban,1
+37,34666.53,11678.42,Self-Employed,Graduate,Rural,1
+36,72242.43,15838.45,Employed,Graduate,Urban,1
+45,58155.62,21566.55,Employed,Graduate,Rural,1
+56,37854.65,7718.15,Employed,Graduate,Urban,1
+49,99720.28,10059.01,Self-Employed,Not Graduate,Semiurban,0
+35,30410.56,11903.41,Employed,Not Graduate,Semiurban,0
+27,70803.36,9764.4,Employed,Graduate,Rural,0
+64,73147.48,26741.57,Employed,Not Graduate,Semiurban,0
+39,37487.09,9483.33,Employed,Graduate,Rural,1
+38,85561.11,10697.67,Employed,Graduate,Urban,1
+38,44355.03,14497.85,Employed,Graduate,Rural,1
+40,55021.4,8259.67,Employed,Graduate,Rural,0
+37,54400.51,11404.09,Employed,Graduate,Rural,1
+32,46456.72,15168.58,Employed,Not Graduate,Semiurban,0
+33,67800.4,11694.29,Self-Employed,Not Graduate,Rural,0
+38,67332.31,12869.88,Employed,Graduate,Semiurban,1
+33,24357.31,10810.44,Employed,Graduate,Semiurban,1
+31,82597.62,7289.66,Self-Employed,Not Graduate,Rural,0
+39,25210.18,15193.72,Employed,Not Graduate,Rural,0
+35,74088.71,26956.32,Self-Employed,Not Graduate,Urban,1
+53,76932.37,13458.43,Employed,Graduate,Semiurban,1
+21,31685.47,14619.41,Employed,Not Graduate,Rural,0
+49,41592.46,17625.27,Employed,Graduate,Urban,1
+50,31499.22,8040.67,Self-Employed,Graduate,Urban,1
+21,44982.63,26397.01,Self-Employed,Graduate,Rural,1
+35,43338.05,14485.91,Employed,Graduate,Urban,0
+34,66960.9,25661.39,Employed,Graduate,Urban,1
+24,82795.05,9964.53,Unemployed,Graduate,Rural,0
+30,85671.33,27645.68,Employed,Graduate,Urban,1
+27,39149.1,18216.12,Employed,Not Graduate,Rural,0
+56,45085.29,16667.5,Unemployed,Graduate,Urban,0
+47,24999.84,14670.73,Self-Employed,Graduate,Urban,1
+51,35512.92,12095.5,Employed,Graduate,Rural,0
+45,72109.47,21594.9,Self-Employed,Not Graduate,Rural,1
+27,93548.3,14131.25,Self-Employed,Graduate,Urban,1
+33,29919.34,6082.51,Employed,Graduate,Urban,1
+43,38677.54,8545.2,Employed,Graduate,Rural,1
+26,48505.75,12402.6,Employed,Not Graduate,Urban,0
+45,54833.93,15123.42,Unemployed,Not Graduate,Urban,0
+36,35459.93,13060.72,Self-Employed,Graduate,Urban,1
+34,58082.77,21754.77,Employed,Graduate,Semiurban,1
+45,40557.02,6121.48,Self-Employed,Not Graduate,Semiurban,0
+42,48738.23,14149.51,Employed,Graduate,Semiurban,1
+34,60992.96,6456.28,Employed,Graduate,Semiurban,1
+50,49146.89,18103.94,Employed,Graduate,Rural,0
+27,41169.2,12864.37,Employed,Graduate,Rural,1
+44,46917.97,15801.24,Self-Employed,Graduate,Rural,1
+44,47318.41,9456.4,Employed,Graduate,Urban,1
+35,42276.88,22287.6,Self-Employed,Not Graduate,Rural,1
+41,44200.07,20265.8,Employed,Not Graduate,Semiurban,0
+25,92916.72,16872.12,Employed,Graduate,Rural,1
+47,61351.06,12685.22,Unemployed,Not Graduate,Urban,0
+36,43556.22,16847.25,Employed,Graduate,Urban,1
+33,64781.92,10069.26,Employed,Graduate,Rural,1
+48,42893.36,18811.47,Employed,Graduate,Rural,1
+31,78374.18,25842.93,Self-Employed,Not Graduate,Semiurban,0
+24,56832.12,20501.31,Employed,Not Graduate,Urban,0
+22,46961.3,9978.21,Employed,Not Graduate,Semiurban,0
+44,58634.98,15437.69,Employed,Not Graduate,Rural,1
+25,26151.18,7964.45,Employed,Graduate,Semiurban,0
+56,31234.95,16797.01,Self-Employed,Not Graduate,Rural,0
+21,30407.06,15998.36,Employed,Not Graduate,Rural,0
+55,51905.35,6323.79,Employed,Not Graduate,Rural,0
+40,98027.76,8394.12,Employed,Graduate,Semiurban,1
+37,119673.21,11929.2,Employed,Graduate,Semiurban,1
+33,63273.41,11844.94,Unemployed,Graduate,Urban,1
+42,59894.37,8235.5,Employed,Graduate,Urban,0
+38,23850.89,15608.82,Unemployed,Graduate,Semiurban,0
+49,39455.57,14773.49,Employed,Graduate,Rural,0
+39,35770.78,12360.89,Employed,Graduate,Rural,1
+40,38240.9,9874.23,Self-Employed,Graduate,Rural,1
+34,45832.21,20322.48,Employed,Graduate,Urban,1
+37,40585.4,25904.26,Self-Employed,Graduate,Semiurban,1
+41,22209.6,11010.18,Unemployed,Not Graduate,Semiurban,0
+21,66115.87,10458.11,Employed,Graduate,Urban,1
+25,31917.28,16260.32,Employed,Graduate,Urban,1
+45,53943.84,11577.15,Self-Employed,Not Graduate,Semiurban,0
+40,112379.08,12635.19,Employed,Graduate,Urban,1
+36,33936.49,17959.26,Employed,Graduate,Semiurban,0
+38,17816.58,6224.56,Employed,Graduate,Urban,1
+41,43721.63,22636.55,Employed,Graduate,Rural,1
+33,76144.17,13753.82,Self-Employed,Not Graduate,Semiurban,1
+30,107295.18,11332.19,Employed,Graduate,Rural,1
+40,29976.83,12891.28,Employed,Graduate,Rural,0
+28,59795.14,13160.45,Employed,Graduate,Rural,1
+42,40695.62,6684.32,Employed,Graduate,Urban,1
+21,46986.74,24293.77,Employed,Not Graduate,Urban,0
+48,141172.43,13582.4,Self-Employed,Graduate,Semiurban,1
+43,26871.24,15949.79,Employed,Graduate,Semiurban,1
+41,54257.46,19547.84,Self-Employed,Graduate,Rural,1
+48,59105.38,8879.81,Self-Employed,Graduate,Urban,1
+55,75683.43,16145.37,Employed,Graduate,Urban,1
+48,50980.23,12003.38,Employed,Not Graduate,Urban,1
+21,55449.07,18745.49,Employed,Not Graduate,Rural,1
+25,41912.55,5705.06,Employed,Not Graduate,Semiurban,0
+32,54592.44,12840.54,Self-Employed,Not Graduate,Rural,1
+38,42732.84,10497.28,Self-Employed,Not Graduate,Semiurban,0
+43,62857.7,15881.42,Employed,Graduate,Urban,1
+31,42283.65,16123.25,Employed,Not Graduate,Urban,0
+40,57001.92,10066.31,Unemployed,Not Graduate,Urban,0
+30,48450.35,10048.02,Unemployed,Not Graduate,Rural,0
+32,76912.22,12781.24,Employed,Graduate,Urban,1
+24,48023.34,9333.29,Employed,Graduate,Semiurban,0
+29,24119.77,18709.63,Employed,Not Graduate,Urban,0
+24,81207.96,11525.5,Unemployed,Not Graduate,Semiurban,0
+28,34122.32,4176.4,Employed,Not Graduate,Rural,0
+49,37740.67,11499.64,Employed,Graduate,Semiurban,1
+29,38628.11,8818.28,Employed,Graduate,Rural,1
+64,84946.36,6956.9,Employed,Graduate,Semiurban,0
+43,20862.95,8143.94,Employed,Not Graduate,Urban,0
+40,171974.14,13957.38,Unemployed,Graduate,Semiurban,1
+29,74788.75,22730.35,Employed,Graduate,Semiurban,1
+45,53599.53,15142.7,Employed,Not Graduate,Urban,1
+32,47956.15,10481.83,Employed,Graduate,Urban,1
+39,54952.34,16032.32,Employed,Not Graduate,Rural,0
+64,60382.16,11118.48,Employed,Graduate,Semiurban,1
+37,63455.0,10118.9,Employed,Not Graduate,Rural,0
+49,61220.77,8419.07,Employed,Graduate,Rural,1
+31,50809.18,6629.39,Employed,Not Graduate,Urban,0
+38,45300.11,11430.39,Employed,Not Graduate,Urban,1
+56,46142.54,14231.62,Employed,Graduate,Semiurban,1
+32,45344.16,12853.23,Unemployed,Graduate,Urban,1
+56,77150.09,11311.93,Unemployed,Graduate,Rural,0
+45,62157.25,9151.76,Employed,Not Graduate,Semiurban,0
+32,15121.07,17039.65,Employed,Not Graduate,Urban,0
+44,63726.79,7888.39,Unemployed,Graduate,Rural,0
+48,52991.91,18222.48,Employed,Graduate,Urban,1
+44,48655.32,8947.35,Self-Employed,Graduate,Rural,0
+22,41965.06,9887.49,Unemployed,Not Graduate,Urban,0
+31,76852.64,7430.04,Employed,Not Graduate,Semiurban,1
+36,71611.47,10931.89,Employed,Graduate,Urban,1
+37,35984.69,19734.53,Unemployed,Graduate,Rural,0
+44,57688.95,16419.93,Employed,Graduate,Rural,1
+40,33234.29,19759.09,Employed,Graduate,Urban,1
+25,28230.34,16462.77,Employed,Graduate,Semiurban,1
+42,38151.22,8591.53,Employed,Graduate,Urban,1
+44,69213.93,11703.98,Self-Employed,Graduate,Rural,1
+44,71772.02,9778.29,Self-Employed,Graduate,Urban,1
+49,60188.35,22747.94,Unemployed,Graduate,Rural,0
+46,65515.26,8277.4,Employed,Graduate,Urban,1
+43,60262.86,19100.68,Employed,Graduate,Rural,0
+37,37926.58,19095.0,Employed,Not Graduate,Urban,0
+21,58265.71,27773.79,Employed,Not Graduate,Semiurban,1
+42,67518.97,11340.38,Employed,Graduate,Urban,1
+40,66284.84,17763.99,Unemployed,Graduate,Semiurban,0
+41,78870.72,33278.3,Self-Employed,Not Graduate,Semiurban,0
+25,65076.68,10435.23,Employed,Not Graduate,Urban,1
+27,56420.02,7229.92,Employed,Graduate,Rural,1
+49,75211.55,6298.05,Employed,Graduate,Urban,1
+38,48503.51,17766.76,Employed,Graduate,Rural,0
+45,34449.51,6290.15,Self-Employed,Graduate,Semiurban,1
+38,45925.38,11511.16,Employed,Graduate,Rural,1
+38,36389.62,15913.53,Unemployed,Graduate,Rural,0
+47,37418.81,14386.85,Employed,Not Graduate,Urban,0
+33,46267.38,15838.17,Employed,Graduate,Rural,1
+39,35704.5,14602.03,Self-Employed,Graduate,Urban,1
+33,43339.31,22282.26,Employed,Graduate,Semiurban,1
+34,22984.01,9127.74,Employed,Graduate,Rural,0
+35,53386.73,10190.41,Employed,Graduate,Semiurban,1
+40,49044.44,9807.83,Employed,Graduate,Urban,1
+33,35353.92,18621.59,Self-Employed,Not Graduate,Urban,0
+51,63812.11,19151.94,Employed,Graduate,Urban,1
+29,71326.85,16002.34,Self-Employed,Not Graduate,Urban,1
+36,25770.25,21448.23,Employed,Not Graduate,Urban,1
+34,36131.13,8339.71,Employed,Graduate,Semiurban,0
+52,36038.5,26027.0,Self-Employed,Graduate,Semiurban,1
+40,33659.1,24570.34,Employed,Graduate,Rural,1
+48,68308.53,17930.33,Employed,Not Graduate,Rural,0
+23,45363.79,27247.57,Employed,Not Graduate,Urban,0
+41,44099.07,6886.72,Employed,Not Graduate,Semiurban,0
+47,21992.46,10831.57,Employed,Graduate,Urban,1
+39,63206.8,9955.48,Employed,Not Graduate,Semiurban,1
+49,29860.64,17829.18,Employed,Graduate,Rural,1
+33,50210.18,8777.47,Employed,Graduate,Urban,1
+52,54772.9,18087.89,Unemployed,Graduate,Semiurban,1
+61,84479.44,23114.48,Employed,Graduate,Urban,1
+34,29041.23,17642.77,Self-Employed,Not Graduate,Rural,0
+34,14649.99,14965.46,Employed,Graduate,Rural,0
+53,52761.65,8998.84,Employed,Graduate,Urban,1
+54,100730.56,9521.04,Self-Employed,Graduate,Rural,1
+33,80465.08,22023.11,Employed,Not Graduate,Rural,0
+34,53309.18,18246.7,Self-Employed,Not Graduate,Semiurban,0
+35,40269.33,13152.83,Employed,Graduate,Urban,1
+25,67700.51,11303.14,Employed,Graduate,Semiurban,1
+29,33209.18,5941.26,Employed,Graduate,Urban,1
+28,59310.59,8705.05,Employed,Not Graduate,Urban,1
+30,60005.29,28697.57,Self-Employed,Graduate,Urban,1
+38,74913.09,8004.97,Employed,Graduate,Urban,1
+40,147836.77,14411.65,Unemployed,Graduate,Urban,1
+54,57352.19,19989.8,Unemployed,Graduate,Semiurban,0
+28,39991.19,8087.14,Employed,Not Graduate,Urban,1
+48,48521.89,14384.18,Employed,Graduate,Urban,1
+36,24157.97,19441.52,Self-Employed,Graduate,Urban,1
+38,37127.56,13426.69,Unemployed,Graduate,Semiurban,1
+45,41617.96,42081.4,Employed,Graduate,Semiurban,0
+27,39749.98,6853.81,Employed,Not Graduate,Urban,0
+42,52101.13,20404.11,Employed,Graduate,Urban,1
+40,35278.61,12467.48,Self-Employed,Not Graduate,Urban,0
+43,76757.95,18192.56,Employed,Not Graduate,Urban,1
+41,49024.86,15938.98,Self-Employed,Graduate,Urban,1
+63,48838.78,9964.04,Employed,Graduate,Rural,1
+32,42995.13,14641.26,Employed,Graduate,Urban,1
+33,52160.26,6354.0,Employed,Not Graduate,Rural,0
+32,68189.05,17005.62,Employed,Graduate,Urban,1
+32,34653.29,15051.96,Employed,Graduate,Semiurban,0
+32,37675.05,17248.22,Employed,Graduate,Semiurban,1
+50,43412.8,20399.13,Employed,Not Graduate,Rural,0
+52,28614.01,15476.03,Employed,Graduate,Urban,1
+32,35323.26,14175.01,Employed,Graduate,Rural,1
+30,40518.41,9391.62,Unemployed,Graduate,Rural,0
+43,69546.83,10047.83,Employed,Graduate,Semiurban,1
+32,54449.26,21476.05,Employed,Not Graduate,Rural,0
+44,52967.61,23730.92,Employed,Graduate,Semiurban,0
+40,68896.4,12146.01,Unemployed,Not Graduate,Semiurban,0
+23,46399.84,13607.84,Employed,Not Graduate,Urban,0
+53,57307.45,9303.58,Self-Employed,Graduate,Rural,1
+56,47038.01,21356.31,Self-Employed,Not Graduate,Urban,0
+32,54510.3,17433.81,Employed,Graduate,Urban,1
+34,38827.99,29041.67,Employed,Graduate,Rural,1
+41,18480.53,9401.93,Self-Employed,Not Graduate,Urban,0
+41,46457.27,11485.0,Employed,Graduate,Semiurban,1
+45,86603.82,14655.61,Employed,Graduate,Urban,1
+58,71003.62,17302.32,Self-Employed,Graduate,Rural,1
+36,72125.22,12255.53,Employed,Not Graduate,Rural,1
+30,80374.5,9422.12,Self-Employed,Graduate,Rural,0
+24,50790.42,19007.01,Employed,Graduate,Rural,1
+31,53046.61,17826.73,Self-Employed,Graduate,Semiurban,1
+38,38289.82,9260.29,Employed,Not Graduate,Rural,0
+56,43198.92,22975.35,Employed,Not Graduate,Rural,0
+33,62712.02,21334.47,Employed,Graduate,Urban,1
+40,79344.45,14097.02,Unemployed,Not Graduate,Rural,0
+38,46361.35,13791.93,Employed,Graduate,Semiurban,1
+50,40942.52,16674.29,Employed,Graduate,Rural,0
+63,49031.15,9464.65,Employed,Not Graduate,Semiurban,0
+33,62347.74,13521.18,Employed,Not Graduate,Rural,1
+33,27514.22,5647.94,Employed,Not Graduate,Urban,0
+48,19565.59,18969.4,Employed,Not Graduate,Urban,1
+45,39331.67,7153.83,Employed,Graduate,Urban,1
+56,30082.99,24376.33,Employed,Not Graduate,Rural,0
+44,40004.37,11707.11,Employed,Graduate,Semiurban,1
+34,46207.06,12275.16,Employed,Graduate,Urban,1
+44,40892.45,10393.19,Self-Employed,Graduate,Rural,1
+49,87639.49,11905.84,Employed,Graduate,Rural,1
+46,55865.25,23562.52,Employed,Graduate,Rural,1
+43,55281.29,4938.79,Employed,Graduate,Urban,1
+49,62873.68,22265.33,Unemployed,Graduate,Urban,1
+50,31084.57,15293.9,Unemployed,Graduate,Urban,0
+52,74283.54,8243.59,Self-Employed,Graduate,Urban,1
+44,47557.48,8689.54,Employed,Graduate,Urban,1
+36,64099.53,26122.63,Employed,Graduate,Urban,1
+39,31928.59,9152.64,Employed,Not Graduate,Rural,0
+50,26330.85,8422.48,Employed,Not Graduate,Urban,1
+30,67992.72,21055.68,Employed,Not Graduate,Semiurban,1
+42,56986.17,15297.14,Self-Employed,Graduate,Urban,1
+34,34172.6,9180.43,Self-Employed,Not Graduate,Urban,1
+38,34618.2,14568.98,Self-Employed,Graduate,Urban,1
+51,76893.29,8863.52,Employed,Graduate,Urban,1
+40,30462.0,20750.56,Self-Employed,Graduate,Semiurban,1
+38,94567.5,20425.68,Employed,Not Graduate,Urban,1
+24,34192.16,16527.86,Employed,Graduate,Semiurban,0
+45,63282.04,15439.19,Self-Employed,Graduate,Semiurban,1
+44,42982.68,27023.85,Employed,Graduate,Rural,1
+60,62397.16,13358.05,Employed,Not Graduate,Rural,0
+35,39432.85,8326.93,Employed,Graduate,Rural,1
+40,45930.42,15991.13,Self-Employed,Graduate,Rural,0
+40,49829.76,30773.8,Self-Employed,Graduate,Rural,0
+54,32830.89,8902.58,Employed,Graduate,Urban,1
+37,65928.74,11561.26,Self-Employed,Not Graduate,Urban,0
+41,39923.27,15781.26,Employed,Graduate,Rural,1
+44,44737.17,13074.75,Employed,Not Graduate,Rural,0
+40,32933.98,9018.91,Self-Employed,Graduate,Semiurban,1
+34,17589.66,20925.9,Self-Employed,Not Graduate,Urban,0
+40,45414.6,33793.25,Unemployed,Graduate,Semiurban,0
+49,128675.13,14450.04,Employed,Graduate,Urban,1
+28,67093.45,9305.61,Self-Employed,Graduate,Rural,1
+39,48644.59,7189.78,Employed,Graduate,Urban,1
+31,44127.73,14811.96,Unemployed,Graduate,Rural,0
+50,49463.3,20775.94,Employed,Not Graduate,Urban,0
+23,61013.33,16156.33,Self-Employed,Graduate,Rural,1
+32,30566.96,13346.89,Employed,Not Graduate,Semiurban,0
+42,76552.24,10554.33,Employed,Not Graduate,Rural,1
+54,65261.17,8631.16,Employed,Graduate,Rural,1
+37,65334.42,18655.58,Employed,Not Graduate,Semiurban,0
+32,58418.64,19254.67,Employed,Not Graduate,Semiurban,1
+57,49406.96,7199.08,Self-Employed,Graduate,Rural,1
+24,64160.59,25233.7,Employed,Not Graduate,Urban,1
+21,62113.94,16808.31,Employed,Graduate,Semiurban,1
+42,42547.81,23384.71,Employed,Graduate,Rural,0
+33,38970.46,7809.91,Employed,Not Graduate,Urban,0
+28,51059.28,7736.23,Employed,Graduate,Urban,1
+45,91090.43,12586.91,Employed,Graduate,Semiurban,1
+40,29862.45,16335.79,Employed,Graduate,Urban,1
+32,27254.94,27406.74,Employed,Not Graduate,Semiurban,0
+25,52360.32,17719.69,Employed,Not Graduate,Urban,1
+47,50028.85,12123.82,Employed,Graduate,Semiurban,1
+45,52540.35,8861.33,Employed,Not Graduate,Rural,0
+37,54045.48,21850.96,Employed,Not Graduate,Rural,0
+56,44833.87,9082.62,Employed,Graduate,Semiurban,1
+27,88960.29,25626.63,Unemployed,Graduate,Rural,1
+23,25838.95,11923.26,Self-Employed,Not Graduate,Rural,0
+31,35192.95,25241.2,Self-Employed,Not Graduate,Urban,0
+38,47037.39,17528.31,Employed,Not Graduate,Urban,0
+40,25405.59,12647.34,Self-Employed,Graduate,Urban,1
+36,45691.07,10853.48,Self-Employed,Graduate,Rural,1
+42,95281.23,11656.71,Self-Employed,Graduate,Urban,1
+25,49432.07,15856.37,Employed,Graduate,Urban,1
+52,53759.75,13778.47,Employed,Graduate,Rural,1
+37,29611.97,10535.18,Self-Employed,Not Graduate,Rural,0
+49,38309.59,12503.29,Employed,Graduate,Semiurban,1
+41,42189.28,13786.3,Employed,Not Graduate,Urban,1
+43,43170.56,5701.62,Employed,Graduate,Urban,1
+44,81851.14,16046.84,Employed,Graduate,Semiurban,1
+42,61271.89,9028.23,Employed,Graduate,Urban,1
+44,31426.82,8422.54,Employed,Graduate,Semiurban,1
+51,54100.67,6802.61,Employed,Graduate,Semiurban,0
+40,59831.57,6518.78,Employed,Not Graduate,Semiurban,1
+45,77347.2,7768.41,Employed,Not Graduate,Urban,1
+37,92246.19,10060.7,Employed,Graduate,Semiurban,1
+52,32661.83,29181.89,Employed,Graduate,Semiurban,1
+31,35442.15,10825.37,Self-Employed,Not Graduate,Rural,0
+56,29642.63,14344.19,Self-Employed,Graduate,Urban,1
+38,44640.29,15680.8,Employed,Graduate,Urban,1
+24,59073.83,14078.81,Employed,Graduate,Urban,1
+39,72760.89,12952.22,Employed,Not Graduate,Rural,0
+31,47553.92,8282.35,Self-Employed,Graduate,Rural,1
+46,43133.75,23869.84,Employed,Graduate,Urban,1
+31,52088.69,27525.79,Employed,Not Graduate,Rural,0
+34,35099.52,6815.38,Employed,Graduate,Urban,0
+21,113076.01,8869.63,Employed,Graduate,Rural,1
+33,25769.21,11945.09,Self-Employed,Graduate,Semiurban,1
+21,52780.46,9083.23,Self-Employed,Not Graduate,Urban,1
+22,110132.83,16356.59,Employed,Graduate,Rural,1
+46,49154.32,9983.52,Employed,Not Graduate,Urban,1
+46,45432.56,31761.89,Employed,Not Graduate,Rural,1
+42,42489.91,21508.84,Employed,Graduate,Semiurban,0
+28,45608.22,14545.39,Employed,Not Graduate,Semiurban,0
+38,84892.36,20146.67,Employed,Graduate,Urban,1
+38,20236.74,20792.76,Employed,Graduate,Semiurban,0
+26,90524.29,10661.78,Employed,Graduate,Urban,1
+53,27734.08,9638.43,Unemployed,Graduate,Rural,0
+47,44061.39,13783.91,Employed,Graduate,Urban,1
+36,41286.97,18857.28,Self-Employed,Graduate,Semiurban,0
+38,62032.97,14123.91,Self-Employed,Graduate,Rural,1
+40,25867.7,7109.6,Employed,Not Graduate,Rural,0
+21,58975.01,9690.2,Self-Employed,Graduate,Semiurban,1
+36,110163.82,12970.22,Employed,Not Graduate,Urban,1
+31,28416.65,12961.44,Employed,Graduate,Urban,1
+28,52885.39,29407.85,Employed,Graduate,Semiurban,1
+35,37616.84,7674.09,Unemployed,Graduate,Urban,0
+56,58125.22,16354.13,Employed,Graduate,Urban,1
+44,49397.7,24237.23,Employed,Graduate,Rural,0
+32,37926.5,33142.77,Unemployed,Not Graduate,Rural,0
+44,59584.39,11364.4,Employed,Not Graduate,Urban,0
+52,100885.27,16261.76,Self-Employed,Not Graduate,Urban,1
+47,45416.85,16779.35,Self-Employed,Graduate,Urban,1
+39,65375.52,14446.29,Self-Employed,Not Graduate,Rural,0
+32,29222.4,12841.81,Unemployed,Graduate,Semiurban,0
+45,33437.24,15905.02,Unemployed,Graduate,Semiurban,0
+42,59216.92,4851.78,Employed,Not Graduate,Rural,1
+47,88756.01,17550.33,Self-Employed,Graduate,Urban,1
+44,56514.09,14051.31,Employed,Graduate,Semiurban,1
+48,43251.05,12222.21,Employed,Graduate,Rural,1
+33,49006.91,30295.21,Employed,Graduate,Urban,1
+51,29727.77,10198.81,Self-Employed,Not Graduate,Semiurban,0
+40,62430.31,11370.41,Unemployed,Graduate,Semiurban,1
+59,69768.17,29632.33,Unemployed,Not Graduate,Semiurban,0
+31,40911.39,9577.53,Employed,Graduate,Semiurban,1
+55,40618.67,10720.94,Employed,Graduate,Urban,1
+40,54521.55,12596.7,Employed,Graduate,Urban,1
+31,41163.7,18700.28,Self-Employed,Graduate,Rural,1
+33,47741.05,14517.66,Self-Employed,Graduate,Urban,1
+35,113537.53,7966.1,Employed,Not Graduate,Rural,1
+42,44408.66,10798.18,Employed,Not Graduate,Semiurban,1
+43,42474.7,10478.26,Employed,Not Graduate,Semiurban,0
+32,37834.75,12953.37,Employed,Not Graduate,Rural,0
+38,66017.61,15840.69,Unemployed,Not Graduate,Semiurban,0
+59,45593.04,15792.37,Employed,Graduate,Semiurban,1
+55,37807.05,6565.57,Employed,Not Graduate,Rural,0
+42,83159.99,20446.69,Employed,Graduate,Urban,1
+38,86494.94,14779.96,Employed,Graduate,Urban,1
+39,38554.6,23244.24,Unemployed,Graduate,Urban,0
+44,23234.28,15957.42,Employed,Graduate,Urban,0
+28,73350.56,20754.72,Employed,Graduate,Urban,1
+35,37277.61,16100.7,Employed,Not Graduate,Urban,1
+21,67255.24,22890.8,Self-Employed,Graduate,Rural,1
+42,22291.45,16463.49,Self-Employed,Graduate,Semiurban,0
+44,70055.21,12846.59,Self-Employed,Graduate,Urban,1
+33,30198.01,33155.83,Employed,Graduate,Semiurban,0
+54,65663.97,19065.1,Employed,Graduate,Rural,1
+26,49301.47,16806.11,Employed,Graduate,Urban,1
+23,33470.65,8018.27,Self-Employed,Graduate,Semiurban,1
+40,41655.37,7979.87,Employed,Graduate,Rural,0
+48,64506.89,15019.22,Employed,Not Graduate,Urban,1
+55,51141.82,14160.45,Self-Employed,Not Graduate,Semiurban,0
+33,61930.32,10449.93,Self-Employed,Graduate,Urban,1
+49,108074.52,14134.77,Employed,Graduate,Rural,1
+38,26220.67,25221.47,Employed,Graduate,Urban,1
+36,93609.3,17644.18,Employed,Not Graduate,Semiurban,1
+47,51110.35,8464.16,Self-Employed,Graduate,Rural,1
+45,34217.29,12776.93,Self-Employed,Graduate,Rural,1
+22,28792.62,9681.9,Employed,Not Graduate,Urban,0
+53,45449.26,11440.56,Employed,Graduate,Rural,1
+52,70874.08,11322.57,Self-Employed,Graduate,Semiurban,1
+32,46582.51,11036.26,Self-Employed,Graduate,Rural,1
+42,89721.16,8086.46,Employed,Not Graduate,Rural,0
+43,27433.76,12694.68,Employed,Not Graduate,Rural,0
+41,48784.33,10676.04,Employed,Not Graduate,Semiurban,0
+32,29704.17,4139.05,Employed,Graduate,Rural,1
+31,56695.65,30369.34,Unemployed,Graduate,Semiurban,0
+38,69895.39,20650.77,Self-Employed,Not Graduate,Semiurban,0
+50,41427.3,11492.84,Self-Employed,Not Graduate,Rural,0
+43,17297.45,13460.67,Employed,Graduate,Urban,1
+34,53081.26,8361.04,Self-Employed,Not Graduate,Rural,0
+46,58378.06,26325.39,Employed,Graduate,Semiurban,0
+21,57625.35,28535.82,Employed,Graduate,Urban,1
+49,80363.3,14223.88,Employed,Not Graduate,Rural,0
+21,31938.85,20118.85,Employed,Graduate,Semiurban,1
+34,64349.63,14330.06,Self-Employed,Not Graduate,Urban,0
+27,78984.19,7826.81,Employed,Graduate,Rural,1
+25,24066.23,11330.69,Employed,Graduate,Urban,1
+50,55706.98,14083.67,Employed,Not Graduate,Urban,1
+33,40067.79,11138.7,Employed,Not Graduate,Semiurban,0
+41,47448.06,12240.91,Employed,Graduate,Urban,1
+38,56334.96,12880.12,Employed,Graduate,Urban,1
+43,40340.39,12934.44,Self-Employed,Graduate,Semiurban,0
+39,37410.88,13641.93,Employed,Graduate,Urban,1
+25,49695.07,8740.81,Employed,Not Graduate,Semiurban,0
+48,31732.66,10028.57,Employed,Not Graduate,Semiurban,0
+33,31750.7,7991.76,Self-Employed,Graduate,Urban,1
+22,64327.94,19754.3,Employed,Graduate,Urban,1
+34,30960.96,5754.52,Employed,Graduate,Semiurban,1
+53,63992.75,21193.21,Employed,Not Graduate,Rural,0
+47,58984.89,23261.15,Employed,Graduate,Urban,1
+35,24579.73,11838.68,Employed,Graduate,Semiurban,0
+35,37383.1,4716.14,Self-Employed,Graduate,Urban,1
+35,79034.82,11561.96,Employed,Graduate,Semiurban,1
+59,33108.12,13021.1,Employed,Graduate,Urban,1
+42,40710.38,8917.41,Self-Employed,Graduate,Urban,0
+42,58972.37,10871.64,Self-Employed,Not Graduate,Urban,1
+48,67060.88,24638.81,Employed,Not Graduate,Semiurban,1
+40,44328.56,17430.4,Employed,Not Graduate,Rural,0
+35,38599.55,9229.63,Employed,Graduate,Semiurban,1
+36,86590.72,7051.25,Employed,Graduate,Rural,1
+37,98278.43,11721.65,Self-Employed,Graduate,Urban,1
+38,72514.6,12266.38,Self-Employed,Graduate,Urban,1
+45,50722.62,16292.82,Unemployed,Not Graduate,Rural,0
+39,35478.91,10784.59,Employed,Graduate,Rural,1
+45,35165.55,16392.84,Employed,Graduate,Rural,0
+37,60415.78,28971.32,Employed,Not Graduate,Urban,0
+39,57951.36,18512.48,Self-Employed,Not Graduate,Semiurban,1
+21,85874.26,13105.2,Employed,Graduate,Urban,1
+47,63588.0,12415.98,Employed,Graduate,Semiurban,1
+41,26870.06,11583.43,Self-Employed,Graduate,Urban,1
+48,74665.92,21423.77,Self-Employed,Graduate,Rural,1
+21,32885.13,10394.94,Self-Employed,Graduate,Urban,1
+59,42041.46,13603.59,Employed,Graduate,Rural,1
+37,54180.7,13636.14,Self-Employed,Not Graduate,Rural,0
+49,108908.9,10930.22,Self-Employed,Graduate,Rural,1
+28,170070.34,7715.71,Employed,Graduate,Rural,1
+44,62485.46,15202.11,Employed,Graduate,Semiurban,1
+27,45557.08,13037.67,Employed,Graduate,Rural,1
+32,60706.27,16319.18,Unemployed,Not Graduate,Semiurban,0
+57,69916.86,10791.99,Employed,Graduate,Urban,1
+36,43119.6,21770.88,Employed,Graduate,Rural,1
+40,100517.24,9407.76,Employed,Graduate,Rural,1
+47,53746.2,26497.78,Self-Employed,Not Graduate,Urban,1
+43,59820.11,6640.52,Employed,Graduate,Rural,1
+40,63982.81,15897.36,Employed,Not Graduate,Urban,1
+42,58025.31,16158.03,Employed,Graduate,Urban,1
+62,68567.65,9718.41,Unemployed,Graduate,Urban,1
+37,38295.92,15831.51,Employed,Graduate,Urban,1
+40,39209.69,22288.08,Employed,Not Graduate,Rural,0
+49,31569.23,5504.23,Self-Employed,Not Graduate,Rural,0
+49,58442.61,16335.53,Employed,Graduate,Semiurban,1
+50,66941.51,4928.02,Unemployed,Graduate,Semiurban,0
+44,58871.31,9079.13,Employed,Graduate,Urban,1
+27,95778.83,25633.79,Employed,Graduate,Semiurban,1
+54,48911.2,10586.0,Employed,Graduate,Semiurban,0
+27,64054.95,8353.6,Employed,Not Graduate,Rural,0
+41,31676.16,12342.76,Self-Employed,Not Graduate,Rural,0
+30,41988.88,30551.3,Employed,Graduate,Semiurban,0
+37,64745.22,6420.99,Self-Employed,Graduate,Rural,1
+41,68846.93,8773.37,Employed,Not Graduate,Semiurban,1
+41,43582.6,24318.01,Employed,Not Graduate,Urban,1
+42,47636.77,28087.53,Employed,Graduate,Urban,0
+54,26711.53,12818.28,Unemployed,Graduate,Rural,0
+43,42496.98,8138.64,Employed,Graduate,Rural,0
+36,69993.19,30894.62,Employed,Graduate,Semiurban,1
+48,61702.64,25280.2,Employed,Graduate,Semiurban,1
+50,59890.09,17528.42,Employed,Graduate,Rural,0
+26,50006.56,9653.15,Employed,Graduate,Urban,1
+44,49159.49,13100.27,Unemployed,Graduate,Semiurban,0
+45,37641.84,12529.69,Employed,Graduate,Rural,1
+35,64830.49,15250.09,Self-Employed,Graduate,Urban,1
+52,58011.07,23870.55,Employed,Not Graduate,Rural,0
+36,59683.3,18991.88,Self-Employed,Not Graduate,Semiurban,0
+39,39719.04,8682.37,Unemployed,Graduate,Semiurban,0
+36,20716.02,23169.65,Employed,Graduate,Rural,0
+38,76028.31,15142.38,Unemployed,Not Graduate,Urban,0
+27,40476.02,17585.44,Employed,Graduate,Semiurban,1
+24,34713.7,24019.38,Unemployed,Graduate,Rural,0
+54,64691.92,8564.39,Self-Employed,Graduate,Rural,1
+30,41906.45,13169.64,Employed,Graduate,Urban,1
+28,74904.9,10801.26,Employed,Graduate,Semiurban,1
+21,62743.01,7135.63,Employed,Not Graduate,Urban,0
+32,64436.0,15347.13,Employed,Graduate,Urban,1
+25,28385.05,36483.76,Employed,Graduate,Rural,1
+54,79600.65,6399.46,Employed,Not Graduate,Urban,1
+48,54420.72,13188.33,Employed,Graduate,Rural,1
+31,42289.29,17261.21,Self-Employed,Graduate,Urban,1
+61,51914.6,14033.9,Employed,Graduate,Rural,1
+48,24088.89,12768.66,Employed,Graduate,Urban,1
+35,57725.89,7945.12,Employed,Graduate,Urban,1
+21,32475.83,14663.47,Employed,Graduate,Urban,1
+61,28536.29,9870.39,Employed,Graduate,Semiurban,0
+24,26663.65,5563.77,Employed,Not Graduate,Semiurban,0
+22,76502.24,21543.66,Unemployed,Graduate,Urban,0
+48,38112.39,19601.36,Self-Employed,Graduate,Semiurban,1
+62,90534.94,13638.67,Employed,Graduate,Rural,1
+52,39564.18,14641.71,Self-Employed,Graduate,Semiurban,1
+44,24761.79,20531.74,Employed,Graduate,Rural,0
+44,31363.19,14614.01,Self-Employed,Not Graduate,Rural,0
+47,80364.25,19179.69,Self-Employed,Graduate,Urban,1
+46,46057.26,11860.95,Employed,Graduate,Rural,1
+41,39367.07,22579.41,Employed,Not Graduate,Semiurban,0
+39,52261.08,15188.81,Employed,Graduate,Rural,0
+37,59916.85,14438.03,Employed,Graduate,Urban,1
+30,76646.52,8038.32,Self-Employed,Not Graduate,Urban,1
+35,87500.49,14984.66,Employed,Not Graduate,Semiurban,1
+21,42450.44,9577.94,Self-Employed,Not Graduate,Rural,0
+37,28841.8,10349.43,Unemployed,Graduate,Rural,0
+28,41548.39,9641.67,Employed,Graduate,Semiurban,0
+27,54399.61,8721.15,Self-Employed,Not Graduate,Urban,1
+40,33339.44,31254.18,Self-Employed,Graduate,Urban,1
+52,33427.68,22754.9,Unemployed,Graduate,Semiurban,0
+47,56247.4,28800.47,Unemployed,Not Graduate,Urban,0
+22,48076.03,8191.42,Self-Employed,Graduate,Urban,1
+28,49668.13,13745.98,Employed,Not Graduate,Rural,0
+47,36192.31,7963.29,Self-Employed,Graduate,Semiurban,1
+28,44704.96,10114.47,Employed,Graduate,Urban,1
+36,33870.74,9253.43,Self-Employed,Graduate,Semiurban,0
+44,69988.02,21934.89,Unemployed,Not Graduate,Semiurban,0
+28,74168.87,11401.59,Employed,Graduate,Urban,1
+39,23424.2,20483.02,Employed,Graduate,Semiurban,1
+25,33799.31,17011.56,Employed,Not Graduate,Rural,0
+32,26940.56,33572.26,Employed,Not Graduate,Rural,0
+41,37797.2,7392.51,Employed,Not Graduate,Semiurban,0
+22,47411.72,22107.97,Self-Employed,Graduate,Semiurban,0
+42,27450.56,21132.69,Unemployed,Graduate,Urban,0
+38,33902.91,9051.16,Unemployed,Not Graduate,Rural,0
+44,32807.65,19987.32,Employed,Graduate,Rural,0
+40,53258.19,15282.41,Self-Employed,Graduate,Rural,1
+52,50399.56,12197.78,Self-Employed,Graduate,Urban,1
