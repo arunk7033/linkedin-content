@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="720" height="440" viewBox="0 0 720 440">
+  <rect width="720" height="440" fill="#FAFAFA"/>
+  <text x="360" y="34" text-anchor="middle" font-family="Arial, sans-serif" font-size="17" font-weight="bold" fill="#1A1A1A">What is a Contingency Table?</text>
+  <text x="360" y="56" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#555">Education vs Loan Status — just a count table</text>
+
+  <text x="300" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1A1A1A">Rejected</text>
+  <text x="460" y="90" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" fill="#1A1A1A">Approved</text>
+
+  <rect x="120" y="100" width="520" height="68" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="80" y="140" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#1A1A1A">Graduate</text>
+  <rect x="230" y="110" width="120" height="48" fill="#2563EB" opacity="0.2" stroke="#2563EB"/>
+  <text x="290" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2563EB">183</text>
+  <rect x="400" y="110" width="120" height="48" fill="#2563EB" opacity="0.35" stroke="#2563EB"/>
+  <text x="460" y="140" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#2563EB">614</text>
+  <text x="560" y="140" font-family="Arial, sans-serif" font-size="12" fill="#2563EB">77% approved</text>
+
+  <rect x="120" y="168" width="520" height="68" fill="#FFFFFF" stroke="#E5E7EB"/>
+  <text x="80" y="208" text-anchor="end" font-family="Arial, sans-serif" font-size="13" fill="#1A1A1A">Not Graduate</text>
+  <rect x="230" y="178" width="120" height="48" fill="#D97706" opacity="0.25" stroke="#D97706"/>
+  <text x="290" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#D97706">282</text>
+  <rect x="400" y="178" width="120" height="48" fill="#D97706" opacity="0.15" stroke="#D97706"/>
+  <text x="460" y="208" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#D97706">121</text>
+  <text x="560" y="208" font-family="Arial, sans-serif" font-size="12" fill="#D97706">30% approved</text>
+
+  <text x="360" y="265" text-anchor="middle" font-family="Arial, sans-serif" font-size="13" font-weight="bold" fill="#10B981">Expected if NO connection (null hypothesis)</text>
+  <rect x="230" y="280" width="120" height="36" fill="#10B981" opacity="0.1" stroke="#10B981" stroke-dasharray="4,3"/>
+  <text x="290" y="303" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#10B981">308.8</text>
+  <rect x="400" y="280" width="120" height="36" fill="#10B981" opacity="0.1" stroke="#10B981" stroke-dasharray="4,3"/>
+  <text x="460" y="303" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#10B981">488.2</text>
+  <rect x="230" y="326" width="120" height="36" fill="#10B981" opacity="0.1" stroke="#10B981" stroke-dasharray="4,3"/>
+  <text x="290" y="349" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#10B981">156.2</text>
+  <rect x="400" y="326" width="120" height="36" fill="#10B981" opacity="0.1" stroke="#10B981" stroke-dasharray="4,3"/>
+  <text x="460" y="349" text-anchor="middle" font-family="Arial, sans-serif" font-size="15" fill="#10B981">246.8</text>
+
+  <text x="360" y="395" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#1A1A1A">Big gap between observed (solid) and expected (dashed) = feature is useful</text>
+  <text x="360" y="415" text-anchor="middle" font-family="Arial, sans-serif" font-size="12" fill="#555">Chi-square test measures how big this gap is</text>
+</svg>
